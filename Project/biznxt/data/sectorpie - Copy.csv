@@ -1,0 +1,15 @@
+State,Categorie,returns,year,Taxcategory,taxreturns,ReturnsCategory,overallreturns,AmountCategory,Amount
+AL,Energy,31918,2010,Direct tax,56000,Total Returns filed,489028,Total Dollar Amount,8636234.48
+AL,Financials,43303,2010,Indirect tax,60000,Filed by WK Product,113764,Dollar Amount by product ,1440252.24
+AL,Health Care,6035,2010,,,,,,
+AL,Industrials,44124,2010,,,,,,
+AL,Information Technology,39440,2010,,,,,,
+AL,Real Estate,18458,2010,,,,,,
+AL,Others,27005,2010,,,,,,
+AL,Energy,15512,2016,Direct tax,56000,Total Returns filed,201215,Total Dollar Amount,3553456.9
+AL,Financials,19474,2016,Indirect tax,60000,Filed by WK Product,64223,Dollar Amount by product ,813063.18
+AL,Health Care,13920,2016,,,,,,
+AL,Industrials,2196,2016,,,,,,
+AL,Information Technology,18565,2016,,,,,,
+AL,Real Estate,7364,2016,,,,,,
+AL,Others,10839,2016,,,,,,

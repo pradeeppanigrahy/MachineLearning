@@ -1,0 +1,15 @@
+Categorie,returns,year,Taxcategory,taxreturns,ReturnsCategory,overallreturns,AmountCategory,Amount
+Energy,38815,2010,Direct tax,3526000,Total Returns filed,489028,Total Dollar Amount,8636234634
+Financials,58862,2010,Indirect tax,4560000,Filed by WK Product,113764,Dollar Amount by product ,144045252.2
+Health Care,40987,2010,,,,,,
+Industrials,39181,2010,,,,,,
+Information Technology,70282,2010,,,,,,
+Real Estate,67722,2010,,,,,,
+Others,59181,2010,,,,,,
+Energy,62716,2016,Direct tax,456000,Total Returns filed,201215,Total Dollar Amount,53553456.9
+Financials,75976,2016,Indirect tax,860000,Filed by WK Product,64223,Dollar Amount by product ,2813063.18
+Health Care,78967,2016,,,,,,
+Industrials,54140,2016,,,,,,
+Information Technology,51756,2016,,,,,,
+Real Estate,76905,2016,,,,,,
+Others,88764,2016,,,,,,

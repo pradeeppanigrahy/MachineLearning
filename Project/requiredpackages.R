@@ -1,0 +1,8 @@
+install.packages(c("maps", "mapproj"))
+install.packages(c("choroplethr", "choroplethrMaps")) 
+install.packages(markdown)
+install.packages(shiny)
+install.packages(plotly)
+install.packages(gridExtra)
+install.packages(ggplot2)
+install.packages("memisc")

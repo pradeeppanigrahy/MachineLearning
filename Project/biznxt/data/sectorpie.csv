@@ -1,0 +1,2451 @@
+State,year,Categorie,returns,Taxcategory,taxreturns,ReturnsCategory,overallreturns,AmountCategory,Amount
+AL,2010,Energy,47557,Direct tax,93925,Total Returns filed,187849,Total Dollar Amount,8636234.48
+AL,2010,Financials,19664,Indirect tax,93924,Filed by WK Product,54477,Dollar Amount by product ,1440252.24
+AL,2010,Health Care,15289,,,,,,
+AL,2010,Industrials,32766,,,,,,
+AL,2010,Information Technology,21504,,,,,,
+AL,2010,Real Estate,1636,,,,,,
+AL,2010,Others,49433,,,,,,
+AL,2011,Energy,38238,Direct tax,75562,Total Returns filed,151124,Total Dollar Amount,8636234.48
+AL,2011,Financials,28306,Indirect tax,75562,Filed by WK Product,34759,Dollar Amount by product ,1440252.24
+AL,2011,Health Care,17725,,,,,,
+AL,2011,Industrials,30944,,,,,,
+AL,2011,Information Technology,12212,,,,,,
+AL,2011,Real Estate,12055,,,,,,
+AL,2011,Others,11644,,,,,,
+AL,2012,Energy,1916,Direct tax,79312,Total Returns filed,152523,Total Dollar Amount,8636234.48
+AL,2012,Financials,10065,Indirect tax,73211,Filed by WK Product,24404,Dollar Amount by product ,1440252.24
+AL,2012,Health Care,47092,,,,,,
+AL,2012,Industrials,16700,,,,,,
+AL,2012,Information Technology,34019,,,,,,
+AL,2012,Real Estate,19480,,,,,,
+AL,2012,Others,23251,,,,,,
+AL,2013,Energy,40195,Direct tax,104148,Total Returns filed,221591,Total Dollar Amount,8636234.48
+AL,2013,Financials,32908,Indirect tax,117443,Filed by WK Product,95285,Dollar Amount by product ,1440252.24
+AL,2013,Health Care,40208,,,,,,
+AL,2013,Industrials,21103,,,,,,
+AL,2013,Information Technology,9555,,,,,,
+AL,2013,Real Estate,41929,,,,,,
+AL,2013,Others,35693,,,,,,
+AL,2014,Energy,33702,Direct tax,127914,Total Returns filed,250810,Total Dollar Amount,8636234.48
+AL,2014,Financials,40911,Indirect tax,122896,Filed by WK Product,90292,Dollar Amount by product ,1440252.24
+AL,2014,Health Care,45883,,,,,,
+AL,2014,Industrials,38005,,,,,,
+AL,2014,Information Technology,25376,,,,,,
+AL,2014,Real Estate,32646,,,,,,
+AL,2014,Others,34287,,,,,,
+AL,2015,Energy,27553,Direct tax,117363,Total Returns filed,202350,Total Dollar Amount,8636234.48
+AL,2015,Financials,44212,Indirect tax,84987,Filed by WK Product,36423,Dollar Amount by product ,1440252.24
+AL,2015,Health Care,22272,,,,,,
+AL,2015,Industrials,7985,,,,,,
+AL,2015,Information Technology,40177,,,,,,
+AL,2015,Real Estate,32746,,,,,,
+AL,2015,Others,27405,,,,,,
+AL,2016,Energy,18941,Direct tax,103480,Total Returns filed,191628,Total Dollar Amount,8636234.48
+AL,2016,Financials,46076,Indirect tax,88148,Filed by WK Product,63238,Dollar Amount by product ,1440252.24
+AL,2016,Health Care,43972,,,,,,
+AL,2016,Industrials,12868,,,,,,
+AL,2016,Information Technology,20150,,,,,,
+AL,2016,Real Estate,14453,,,,,,
+AL,2016,Others,35168,,,,,,
+AK,2010,Energy,27342,Direct tax,67771,Total Returns filed,165295,Total Dollar Amount,8636234.48
+AK,2010,Financials,4230,Indirect tax,97524,Filed by WK Product,64466,Dollar Amount by product ,1440252.24
+AK,2010,Health Care,5266,,,,,,
+AK,2010,Industrials,46240,,,,,,
+AK,2010,Information Technology,45503,,,,,,
+AK,2010,Real Estate,6644,,,,,,
+AK,2010,Others,30070,,,,,,
+AK,2011,Energy,22462,Direct tax,92621,Total Returns filed,201350,Total Dollar Amount,8636234.48
+AK,2011,Financials,23305,Indirect tax,108729,Filed by WK Product,84567,Dollar Amount by product ,1440252.24
+AK,2011,Health Care,15499,,,,,,
+AK,2011,Industrials,28349,,,,,,
+AK,2011,Information Technology,30430,,,,,,
+AK,2011,Real Estate,37975,,,,,,
+AK,2011,Others,43330,,,,,,
+AK,2012,Energy,41077,Direct tax,125404,Total Returns filed,232228,Total Dollar Amount,8636234.48
+AK,2012,Financials,31897,Indirect tax,106824,Filed by WK Product,102181,Dollar Amount by product ,1440252.24
+AK,2012,Health Care,34165,,,,,,
+AK,2012,Industrials,34154,,,,,,
+AK,2012,Information Technology,46014,,,,,,
+AK,2012,Real Estate,9348,,,,,,
+AK,2012,Others,35573,,,,,,
+AK,2013,Energy,3801,Direct tax,63483,Total Returns filed,122081,Total Dollar Amount,8636234.48
+AK,2013,Financials,8120,Indirect tax,58598,Filed by WK Product,19533,Dollar Amount by product ,1440252.24
+AK,2013,Health Care,30741,,,,,,
+AK,2013,Industrials,18385,,,,,,
+AK,2013,Information Technology,10326,,,,,,
+AK,2013,Real Estate,33145,,,,,,
+AK,2013,Others,17563,,,,,,
+AK,2014,Energy,41546,Direct tax,107001,Total Returns filed,184483,Total Dollar Amount,8636234.48
+AK,2014,Financials,26801,Indirect tax,77482,Filed by WK Product,81173,Dollar Amount by product ,1440252.24
+AK,2014,Health Care,7426,,,,,,
+AK,2014,Industrials,7776,,,,,,
+AK,2014,Information Technology,45061,,,,,,
+AK,2014,Real Estate,26848,,,,,,
+AK,2014,Others,29025,,,,,,
+AK,2015,Energy,38999,Direct tax,84981,Total Returns filed,180810,Total Dollar Amount,8636234.48
+AK,2015,Financials,19074,Indirect tax,95829,Filed by WK Product,88597,Dollar Amount by product ,1440252.24
+AK,2015,Health Care,20500,,,,,,
+AK,2015,Industrials,40600,,,,,,
+AK,2015,Information Technology,31801,,,,,,
+AK,2015,Real Estate,10813,,,,,,
+AK,2015,Others,19023,,,,,,
+AK,2016,Energy,49303,Direct tax,102470,Total Returns filed,197056,Total Dollar Amount,8636234.48
+AK,2016,Financials,6996,Indirect tax,94586,Filed by WK Product,45323,Dollar Amount by product ,1440252.24
+AK,2016,Health Care,24555,,,,,,
+AK,2016,Industrials,14876,,,,,,
+AK,2016,Information Technology,43005,,,,,,
+AK,2016,Real Estate,17140,,,,,,
+AK,2016,Others,41181,,,,,,
+AZ,2010,Energy,25953,Direct tax,63007,Total Returns filed,116678,Total Dollar Amount,8636234.48
+AZ,2010,Financials,17942,Indirect tax,53671,Filed by WK Product,23336,Dollar Amount by product ,1440252.24
+AZ,2010,Health Care,28705,,,,,,
+AZ,2010,Industrials,8558,,,,,,
+AZ,2010,Information Technology,13856,,,,,,
+AZ,2010,Real Estate,14258,,,,,,
+AZ,2010,Others,7406,,,,,,
+AZ,2011,Energy,1413,Direct tax,79001,Total Returns filed,188096,Total Dollar Amount,8636234.48
+AZ,2011,Financials,47416,Indirect tax,109095,Filed by WK Product,86525,Dollar Amount by product ,1440252.24
+AZ,2011,Health Care,2278,,,,,,
+AZ,2011,Industrials,33371,,,,,,
+AZ,2011,Information Technology,25326,,,,,,
+AZ,2011,Real Estate,40486,,,,,,
+AZ,2011,Others,37806,,,,,,
+AZ,2012,Energy,37848,Direct tax,76225,Total Returns filed,149460,Total Dollar Amount,8636234.48
+AZ,2012,Financials,17146,Indirect tax,73235,Filed by WK Product,22419,Dollar Amount by product ,1440252.24
+AZ,2012,Health Care,15642,,,,,,
+AZ,2012,Industrials,25860,,,,,,
+AZ,2012,Information Technology,26238,,,,,,
+AZ,2012,Real Estate,25691,,,,,,
+AZ,2012,Others,1035,,,,,,
+AZ,2013,Energy,23068,Direct tax,75254,Total Returns filed,150508,Total Dollar Amount,8636234.48
+AZ,2013,Financials,21346,Indirect tax,75254,Filed by WK Product,48163,Dollar Amount by product ,1440252.24
+AZ,2013,Health Care,31733,,,,,,
+AZ,2013,Industrials,34005,,,,,,
+AZ,2013,Information Technology,12752,,,,,,
+AZ,2013,Real Estate,24807,,,,,,
+AZ,2013,Others,2797,,,,,,
+AZ,2014,Energy,2452,Direct tax,72207,Total Returns filed,167921,Total Dollar Amount,8636234.48
+AZ,2014,Financials,14470,Indirect tax,95714,Filed by WK Product,68848,Dollar Amount by product ,1440252.24
+AZ,2014,Health Care,36725,,,,,,
+AZ,2014,Industrials,49466,,,,,,
+AZ,2014,Information Technology,35005,,,,,,
+AZ,2014,Real Estate,10691,,,,,,
+AZ,2014,Others,19112,,,,,,
+AZ,2015,Energy,18731,Direct tax,94695,Total Returns filed,175360,Total Dollar Amount,8636234.48
+AZ,2015,Financials,24150,Indirect tax,80665,Filed by WK Product,31565,Dollar Amount by product ,1440252.24
+AZ,2015,Health Care,12906,,,,,,
+AZ,2015,Industrials,36825,,,,,,
+AZ,2015,Information Technology,9440,,,,,,
+AZ,2015,Real Estate,37328,,,,,,
+AZ,2015,Others,35980,,,,,,
+AZ,2016,Energy,26782,Direct tax,82140,Total Returns filed,191022,Total Dollar Amount,8636234.48
+AZ,2016,Financials,30679,Indirect tax,108882,Filed by WK Product,45846,Dollar Amount by product ,1440252.24
+AZ,2016,Health Care,18288,,,,,,
+AZ,2016,Industrials,20189,,,,,,
+AZ,2016,Information Technology,33102,,,,,,
+AZ,2016,Real Estate,15123,,,,,,
+AZ,2016,Others,46859,,,,,,
+AR,2010,Energy,33979,Direct tax,108828,Total Returns filed,184454,Total Dollar Amount,8636234.48
+AR,2010,Financials,21831,Indirect tax,75626,Filed by WK Product,40580,Dollar Amount by product ,1440252.24
+AR,2010,Health Care,24205,,,,,,
+AR,2010,Industrials,20255,,,,,,
+AR,2010,Information Technology,40691,,,,,,
+AR,2010,Real Estate,27027,,,,,,
+AR,2010,Others,16466,,,,,,
+AR,2011,Energy,27658,Direct tax,127366,Total Returns filed,249736,Total Dollar Amount,8636234.48
+AR,2011,Financials,28622,Indirect tax,122370,Filed by WK Product,82413,Dollar Amount by product ,1440252.24
+AR,2011,Health Care,38607,,,,,,
+AR,2011,Industrials,41034,,,,,,
+AR,2011,Information Technology,36867,,,,,,
+AR,2011,Real Estate,47536,,,,,,
+AR,2011,Others,29412,,,,,,
+AR,2012,Energy,49577,Direct tax,102772,Total Returns filed,228381,Total Dollar Amount,8636234.48
+AR,2012,Financials,45566,Indirect tax,125609,Filed by WK Product,47961,Dollar Amount by product ,1440252.24
+AR,2012,Health Care,13101,,,,,,
+AR,2012,Industrials,24923,,,,,,
+AR,2012,Information Technology,35532,,,,,,
+AR,2012,Real Estate,23930,,,,,,
+AR,2012,Others,35752,,,,,,
+AR,2013,Energy,35344,Direct tax,71914,Total Returns filed,167241,Total Dollar Amount,8636234.48
+AR,2013,Financials,4138,Indirect tax,95327,Filed by WK Product,41811,Dollar Amount by product ,1440252.24
+AR,2013,Health Care,22704,,,,,,
+AR,2013,Industrials,24591,,,,,,
+AR,2013,Information Technology,30969,,,,,,
+AR,2013,Real Estate,7352,,,,,,
+AR,2013,Others,42143,,,,,,
+AR,2014,Energy,26240,Direct tax,81757,Total Returns filed,166851,Total Dollar Amount,8636234.48
+AR,2014,Financials,41845,Indirect tax,85094,Filed by WK Product,66741,Dollar Amount by product ,1440252.24
+AR,2014,Health Care,47084,,,,,,
+AR,2014,Industrials,28350,,,,,,
+AR,2014,Information Technology,16040,,,,,,
+AR,2014,Real Estate,6060,,,,,,
+AR,2014,Others,1232,,,,,,
+AR,2015,Energy,33488,Direct tax,71004,Total Returns filed,136546,Total Dollar Amount,8636234.48
+AR,2015,Financials,6137,Indirect tax,65542,Filed by WK Product,53253,Dollar Amount by product ,1440252.24
+AR,2015,Health Care,3129,,,,,,
+AR,2015,Industrials,36337,,,,,,
+AR,2015,Information Technology,6567,,,,,,
+AR,2015,Real Estate,42157,,,,,,
+AR,2015,Others,8731,,,,,,
+AR,2016,Energy,6561,Direct tax,62304,Total Returns filed,107420,Total Dollar Amount,8636234.48
+AR,2016,Financials,3442,Indirect tax,45116,Filed by WK Product,24707,Dollar Amount by product ,1440252.24
+AR,2016,Health Care,6032,,,,,,
+AR,2016,Industrials,38633,,,,,,
+AR,2016,Information Technology,20140,,,,,,
+AR,2016,Real Estate,17688,,,,,,
+AR,2016,Others,14924,,,,,,
+CA,2010,Energy,6231,Direct tax,53193,Total Returns filed,96714,Total Dollar Amount,8636234.48
+CA,2010,Financials,8387,Indirect tax,43521,Filed by WK Product,15475,Dollar Amount by product ,1440252.24
+CA,2010,Health Care,15043,,,,,,
+CA,2010,Industrials,18077,,,,,,
+CA,2010,Information Technology,16036,,,,,,
+CA,2010,Real Estate,23668,,,,,,
+CA,2010,Others,9272,,,,,,
+CA,2011,Energy,18087,Direct tax,67928,Total Returns filed,165677,Total Dollar Amount,8636234.48
+CA,2011,Financials,26506,Indirect tax,97749,Filed by WK Product,67928,Dollar Amount by product ,1440252.24
+CA,2011,Health Care,15233,,,,,,
+CA,2011,Industrials,17742,,,,,,
+CA,2011,Information Technology,26444,,,,,,
+CA,2011,Real Estate,23043,,,,,,
+CA,2011,Others,38622,,,,,,
+CA,2012,Energy,17487,Direct tax,71558,Total Returns filed,143116,Total Dollar Amount,8636234.48
+CA,2012,Financials,11223,Indirect tax,71558,Filed by WK Product,41504,Dollar Amount by product ,1440252.24
+CA,2012,Health Care,39897,,,,,,
+CA,2012,Industrials,3675,,,,,,
+CA,2012,Information Technology,20999,,,,,,
+CA,2012,Real Estate,35317,,,,,,
+CA,2012,Others,14518,,,,,,
+CA,2013,Energy,45559,Direct tax,79524,Total Returns filed,134785,Total Dollar Amount,8636234.48
+CA,2013,Financials,13844,Indirect tax,55261,Filed by WK Product,45827,Dollar Amount by product ,1440252.24
+CA,2013,Health Care,10242,,,,,,
+CA,2013,Industrials,47163,,,,,,
+CA,2013,Information Technology,5618,,,,,,
+CA,2013,Real Estate,4844,,,,,,
+CA,2013,Others,7515,,,,,,
+CA,2014,Energy,21930,Direct tax,92939,Total Returns filed,206531,Total Dollar Amount,8636234.48
+CA,2014,Financials,39434,Indirect tax,113592,Filed by WK Product,51633,Dollar Amount by product ,1440252.24
+CA,2014,Health Care,17736,,,,,,
+CA,2014,Industrials,30884,,,,,,
+CA,2014,Information Technology,44651,,,,,,
+CA,2014,Real Estate,47531,,,,,,
+CA,2014,Others,4365,,,,,,
+CA,2015,Energy,33519,Direct tax,81019,Total Returns filed,168789,Total Dollar Amount,8636234.48
+CA,2015,Financials,5972,Indirect tax,87770,Filed by WK Product,50637,Dollar Amount by product ,1440252.24
+CA,2015,Health Care,6325,,,,,,
+CA,2015,Industrials,45299,,,,,,
+CA,2015,Information Technology,28229,,,,,,
+CA,2015,Real Estate,46206,,,,,,
+CA,2015,Others,3239,,,,,,
+CA,2016,Energy,22537,Direct tax,102082,Total Returns filed,176002,Total Dollar Amount,8636234.48
+CA,2016,Financials,34677,Indirect tax,73920,Filed by WK Product,49281,Dollar Amount by product ,1440252.24
+CA,2016,Health Care,15115,,,,,,
+CA,2016,Industrials,14053,,,,,,
+CA,2016,Information Technology,37011,,,,,,
+CA,2016,Real Estate,3722,,,,,,
+CA,2016,Others,48887,,,,,,
+CO,2010,Energy,40639,Direct tax,120886,Total Returns filed,257203,Total Dollar Amount,8636234.48
+CO,2010,Financials,23867,Indirect tax,136317,Filed by WK Product,123458,Dollar Amount by product ,1440252.24
+CO,2010,Health Care,49622,,,,,,
+CO,2010,Industrials,48716,,,,,,
+CO,2010,Information Technology,46110,,,,,,
+CO,2010,Real Estate,31614,,,,,,
+CO,2010,Others,16635,,,,,,
+CO,2011,Energy,38299,Direct tax,114062,Total Returns filed,211225,Total Dollar Amount,8636234.48
+CO,2011,Financials,33144,Indirect tax,97163,Filed by WK Product,103501,Dollar Amount by product ,1440252.24
+CO,2011,Health Care,21348,,,,,,
+CO,2011,Industrials,6443,,,,,,
+CO,2011,Information Technology,33214,,,,,,
+CO,2011,Real Estate,32062,,,,,,
+CO,2011,Others,46715,,,,,,
+CO,2012,Energy,43259,Direct tax,102553,Total Returns filed,218196,Total Dollar Amount,8636234.48
+CO,2012,Financials,29747,Indirect tax,115643,Filed by WK Product,85097,Dollar Amount by product ,1440252.24
+CO,2012,Health Care,6273,,,,,,
+CO,2012,Industrials,40291,,,,,,
+CO,2012,Information Technology,41143,,,,,,
+CO,2012,Real Estate,29517,,,,,,
+CO,2012,Others,27966,,,,,,
+CO,2013,Energy,16574,Direct tax,51098,Total Returns filed,106453,Total Dollar Amount,8636234.48
+CO,2013,Financials,5017,Indirect tax,55355,Filed by WK Product,50033,Dollar Amount by product ,1440252.24
+CO,2013,Health Care,6519,,,,,,
+CO,2013,Industrials,33954,,,,,,
+CO,2013,Information Technology,22686,,,,,,
+CO,2013,Real Estate,12474,,,,,,
+CO,2013,Others,9229,,,,,,
+CO,2014,Energy,47004,Direct tax,92609,Total Returns filed,181585,Total Dollar Amount,8636234.48
+CO,2014,Financials,17305,Indirect tax,88976,Filed by WK Product,65371,Dollar Amount by product ,1440252.24
+CO,2014,Health Care,37958,,,,,,
+CO,2014,Industrials,30165,,,,,,
+CO,2014,Information Technology,7152,,,,,,
+CO,2014,Real Estate,30235,,,,,,
+CO,2014,Others,11766,,,,,,
+CO,2015,Energy,31987,Direct tax,126964,Total Returns filed,218902,Total Dollar Amount,8636234.48
+CO,2015,Financials,39486,Indirect tax,91938,Filed by WK Product,74427,Dollar Amount by product ,1440252.24
+CO,2015,Health Care,35481,,,,,,
+CO,2015,Industrials,10124,,,,,,
+CO,2015,Information Technology,33620,,,,,,
+CO,2015,Real Estate,34931,,,,,,
+CO,2015,Others,33273,,,,,,
+CO,2016,Energy,10686,Direct tax,59784,Total Returns filed,135872,Total Dollar Amount,8636234.48
+CO,2016,Financials,7100,Indirect tax,76088,Filed by WK Product,62502,Dollar Amount by product ,1440252.24
+CO,2016,Health Care,49229,,,,,,
+CO,2016,Industrials,31674,,,,,,
+CO,2016,Information Technology,13891,,,,,,
+CO,2016,Real Estate,10354,,,,,,
+CO,2016,Others,12938,,,,,,
+CT,2010,Energy,21473,Direct tax,97644,Total Returns filed,191457,Total Dollar Amount,8636234.48
+CT,2010,Financials,44867,Indirect tax,93813,Filed by WK Product,86156,Dollar Amount by product ,1440252.24
+CT,2010,Health Care,45891,,,,,,
+CT,2010,Industrials,22734,,,,,,
+CT,2010,Information Technology,2558,,,,,,
+CT,2010,Real Estate,39886,,,,,,
+CT,2010,Others,14048,,,,,,
+CT,2011,Energy,12054,Direct tax,82355,Total Returns filed,196081,Total Dollar Amount,8636234.48
+CT,2011,Financials,19828,Indirect tax,113726,Filed by WK Product,54903,Dollar Amount by product ,1440252.24
+CT,2011,Health Care,34521,,,,,,
+CT,2011,Industrials,47796,,,,,,
+CT,2011,Information Technology,24698,,,,,,
+CT,2011,Real Estate,24982,,,,,,
+CT,2011,Others,32202,,,,,,
+CT,2012,Energy,29758,Direct tax,76924,Total Returns filed,137364,Total Dollar Amount,8636234.48
+CT,2012,Financials,11452,Indirect tax,60440,Filed by WK Product,54946,Dollar Amount by product ,1440252.24
+CT,2012,Health Care,33414,,,,,,
+CT,2012,Industrials,17139,,,,,,
+CT,2012,Information Technology,4792,,,,,,
+CT,2012,Real Estate,2182,,,,,,
+CT,2012,Others,38627,,,,,,
+CT,2013,Energy,23339,Direct tax,92159,Total Returns filed,180702,Total Dollar Amount,8636234.48
+CT,2013,Financials,42341,Indirect tax,88543,Filed by WK Product,57825,Dollar Amount by product ,1440252.24
+CT,2013,Health Care,18407,,,,,,
+CT,2013,Industrials,6303,,,,,,
+CT,2013,Information Technology,27817,,,,,,
+CT,2013,Real Estate,38993,,,,,,
+CT,2013,Others,23502,,,,,,
+CT,2014,Energy,46380,Direct tax,98744,Total Returns filed,214659,Total Dollar Amount,8636234.48
+CT,2014,Financials,20842,Indirect tax,115915,Filed by WK Product,70838,Dollar Amount by product ,1440252.24
+CT,2014,Health Care,25251,,,,,,
+CT,2014,Industrials,48387,,,,,,
+CT,2014,Information Technology,17344,,,,,,
+CT,2014,Real Estate,44538,,,,,,
+CT,2014,Others,11917,,,,,,
+CT,2015,Energy,25117,Direct tax,113059,Total Returns filed,194928,Total Dollar Amount,8636234.48
+CT,2015,Financials,2062,Indirect tax,81869,Filed by WK Product,31189,Dollar Amount by product ,1440252.24
+CT,2015,Health Care,44350,,,,,,
+CT,2015,Industrials,42142,,,,,,
+CT,2015,Information Technology,9540,,,,,,
+CT,2015,Real Estate,45000,,,,,,
+CT,2015,Others,26717,,,,,,
+CT,2016,Energy,41513,Direct tax,124517,Total Returns filed,230586,Total Dollar Amount,8636234.48
+CT,2016,Financials,19429,Indirect tax,106069,Filed by WK Product,50729,Dollar Amount by product ,1440252.24
+CT,2016,Health Care,46452,,,,,,
+CT,2016,Industrials,24927,,,,,,
+CT,2016,Information Technology,28209,,,,,,
+CT,2016,Real Estate,39883,,,,,,
+CT,2016,Others,30173,,,,,,
+DE,2010,Energy,44599,Direct tax,158183,Total Returns filed,263638,Total Dollar Amount,8636234.48
+DE,2010,Financials,16447,Indirect tax,105455,Filed by WK Product,60637,Dollar Amount by product ,1440252.24
+DE,2010,Health Care,39535,,,,,,
+DE,2010,Industrials,33126,,,,,,
+DE,2010,Information Technology,47450,,,,,,
+DE,2010,Real Estate,45727,,,,,,
+DE,2010,Others,36754,,,,,,
+DE,2011,Energy,13893,Direct tax,75533,Total Returns filed,164201,Total Dollar Amount,8636234.48
+DE,2011,Financials,38317,Indirect tax,88668,Filed by WK Product,42693,Dollar Amount by product ,1440252.24
+DE,2011,Health Care,18819,,,,,,
+DE,2011,Industrials,11918,,,,,,
+DE,2011,Information Technology,31235,,,,,,
+DE,2011,Real Estate,31365,,,,,,
+DE,2011,Others,18654,,,,,,
+DE,2012,Energy,21986,Direct tax,108835,Total Returns filed,187646,Total Dollar Amount,8636234.48
+DE,2012,Financials,13207,Indirect tax,78811,Filed by WK Product,75059,Dollar Amount by product ,1440252.24
+DE,2012,Health Care,35991,,,,,,
+DE,2012,Industrials,34534,,,,,,
+DE,2012,Information Technology,38552,,,,,,
+DE,2012,Real Estate,25323,,,,,,
+DE,2012,Others,18053,,,,,,
+DE,2013,Energy,47876,Direct tax,62074,Total Returns filed,151399,Total Dollar Amount,8636234.48
+DE,2013,Financials,11510,Indirect tax,89325,Filed by WK Product,63588,Dollar Amount by product ,1440252.24
+DE,2013,Health Care,1138,,,,,,
+DE,2013,Industrials,27552,,,,,,
+DE,2013,Information Technology,34508,,,,,,
+DE,2013,Real Estate,25383,,,,,,
+DE,2013,Others,3432,,,,,,
+DE,2014,Energy,7758,Direct tax,46155,Total Returns filed,109891,Total Dollar Amount,8636234.48
+DE,2014,Financials,22759,Indirect tax,63736,Filed by WK Product,51649,Dollar Amount by product ,1440252.24
+DE,2014,Health Care,1868,,,,,,
+DE,2014,Industrials,11604,,,,,,
+DE,2014,Information Technology,24439,,,,,,
+DE,2014,Real Estate,4184,,,,,,
+DE,2014,Others,37279,,,,,,
+DE,2015,Energy,8831,Direct tax,81787,Total Returns filed,157282,Total Dollar Amount,8636234.48
+DE,2015,Financials,45952,Indirect tax,75495,Filed by WK Product,69205,Dollar Amount by product ,1440252.24
+DE,2015,Health Care,23494,,,,,,
+DE,2015,Industrials,27070,,,,,,
+DE,2015,Information Technology,1599,,,,,,
+DE,2015,Real Estate,45422,,,,,,
+DE,2015,Others,4914,,,,,,
+DE,2016,Energy,11709,Direct tax,52261,Total Returns filed,127465,Total Dollar Amount,8636234.48
+DE,2016,Financials,7852,Indirect tax,75204,Filed by WK Product,35691,Dollar Amount by product ,1440252.24
+DE,2016,Health Care,17695,,,,,,
+DE,2016,Industrials,43504,,,,,,
+DE,2016,Information Technology,24828,,,,,,
+DE,2016,Real Estate,14338,,,,,,
+DE,2016,Others,7539,,,,,,
+FL,2010,Energy,16685,Direct tax,72082,Total Returns filed,150169,Total Dollar Amount,8636234.48
+FL,2010,Financials,8240,Indirect tax,78087,Filed by WK Product,28533,Dollar Amount by product ,1440252.24
+FL,2010,Health Care,31708,,,,,,
+FL,2010,Industrials,28992,,,,,,
+FL,2010,Information Technology,35236,,,,,,
+FL,2010,Real Estate,16514,,,,,,
+FL,2010,Others,12794,,,,,,
+FL,2011,Energy,18358,Direct tax,95560,Total Returns filed,203319,Total Dollar Amount,8636234.48
+FL,2011,Financials,47429,Indirect tax,107759,Filed by WK Product,48797,Dollar Amount by product ,1440252.24
+FL,2011,Health Care,13347,,,,,,
+FL,2011,Industrials,30600,,,,,,
+FL,2011,Information Technology,27574,,,,,,
+FL,2011,Real Estate,39962,,,,,,
+FL,2011,Others,26049,,,,,,
+FL,2012,Energy,44501,Direct tax,107301,Total Returns filed,178834,Total Dollar Amount,8636234.48
+FL,2012,Financials,10553,Indirect tax,71533,Filed by WK Product,67957,Dollar Amount by product ,1440252.24
+FL,2012,Health Care,35685,,,,,,
+FL,2012,Industrials,10270,,,,,,
+FL,2012,Information Technology,36845,,,,,,
+FL,2012,Real Estate,9422,,,,,,
+FL,2012,Others,31558,,,,,,
+FL,2013,Energy,15127,Direct tax,87844,Total Returns filed,168929,Total Dollar Amount,8636234.48
+FL,2013,Financials,22272,Indirect tax,81085,Filed by WK Product,76019,Dollar Amount by product ,1440252.24
+FL,2013,Health Care,40678,,,,,,
+FL,2013,Industrials,43158,,,,,,
+FL,2013,Information Technology,38483,,,,,,
+FL,2013,Real Estate,3913,,,,,,
+FL,2013,Others,5298,,,,,,
+FL,2014,Energy,38505,Direct tax,108440,Total Returns filed,197162,Total Dollar Amount,8636234.48
+FL,2014,Financials,25622,Indirect tax,88722,Filed by WK Product,35490,Dollar Amount by product ,1440252.24
+FL,2014,Health Care,22891,,,,,,
+FL,2014,Industrials,24772,,,,,,
+FL,2014,Information Technology,12489,,,,,,
+FL,2014,Real Estate,25485,,,,,,
+FL,2014,Others,47398,,,,,,
+FL,2015,Energy,25139,Direct tax,90679,Total Returns filed,181358,Total Dollar Amount,8636234.48
+FL,2015,Financials,13628,Indirect tax,90679,Filed by WK Product,27204,Dollar Amount by product ,1440252.24
+FL,2015,Health Care,42071,,,,,,
+FL,2015,Industrials,12555,,,,,,
+FL,2015,Information Technology,16242,,,,,,
+FL,2015,Real Estate,42121,,,,,,
+FL,2015,Others,29602,,,,,,
+FL,2016,Energy,9304,Direct tax,112479,Total Returns filed,216305,Total Dollar Amount,8636234.48
+FL,2016,Financials,24394,Indirect tax,103826,Filed by WK Product,51914,Dollar Amount by product ,1440252.24
+FL,2016,Health Care,45227,,,,,,
+FL,2016,Industrials,45774,,,,,,
+FL,2016,Information Technology,40241,,,,,,
+FL,2016,Real Estate,48439,,,,,,
+FL,2016,Others,2926,,,,,,
+GA,2010,Energy,2931,Direct tax,45801,Total Returns filed,84815,Total Dollar Amount,8636234.48
+GA,2010,Financials,10016,Indirect tax,39014,Filed by WK Product,25445,Dollar Amount by product ,1440252.24
+GA,2010,Health Care,7312,,,,,,
+GA,2010,Industrials,4605,,,,,,
+GA,2010,Information Technology,13297,,,,,,
+GA,2010,Real Estate,30314,,,,,,
+GA,2010,Others,16340,,,,,,
+GA,2011,Energy,48754,Direct tax,82795,Total Returns filed,147848,Total Dollar Amount,8636234.48
+GA,2011,Financials,6439,Indirect tax,65053,Filed by WK Product,34006,Dollar Amount by product ,1440252.24
+GA,2011,Health Care,9713,,,,,,
+GA,2011,Industrials,3045,,,,,,
+GA,2011,Information Technology,7179,,,,,,
+GA,2011,Real Estate,28744,,,,,,
+GA,2011,Others,43974,,,,,,
+GA,2012,Energy,43908,Direct tax,90579,Total Returns filed,226447,Total Dollar Amount,8636234.48
+GA,2012,Financials,38585,Indirect tax,135868,Filed by WK Product,86050,Dollar Amount by product ,1440252.24
+GA,2012,Health Care,42072,,,,,,
+GA,2012,Industrials,8956,,,,,,
+GA,2012,Information Technology,24312,,,,,,
+GA,2012,Real Estate,27699,,,,,,
+GA,2012,Others,40915,,,,,,
+GA,2013,Energy,21939,Direct tax,83024,Total Returns filed,159660,Total Dollar Amount,8636234.48
+GA,2013,Financials,17123,Indirect tax,76636,Filed by WK Product,75041,Dollar Amount by product ,1440252.24
+GA,2013,Health Care,31583,,,,,,
+GA,2013,Industrials,2259,,,,,,
+GA,2013,Information Technology,19546,,,,,,
+GA,2013,Real Estate,39605,,,,,,
+GA,2013,Others,27605,,,,,,
+GA,2014,Energy,45818,Direct tax,108864,Total Returns filed,184514,Total Dollar Amount,8636234.48
+GA,2014,Financials,25109,Indirect tax,75650,Filed by WK Product,46129,Dollar Amount by product ,1440252.24
+GA,2014,Health Care,38338,,,,,,
+GA,2014,Industrials,15384,,,,,,
+GA,2014,Information Technology,6337,,,,,,
+GA,2014,Real Estate,27239,,,,,,
+GA,2014,Others,26289,,,,,,
+GA,2015,Energy,48483,Direct tax,127617,Total Returns filed,245417,Total Dollar Amount,8636234.48
+GA,2015,Financials,28706,Indirect tax,117800,Filed by WK Product,112892,Dollar Amount by product ,1440252.24
+GA,2015,Health Care,49871,,,,,,
+GA,2015,Industrials,42692,,,,,,
+GA,2015,Information Technology,43645,,,,,,
+GA,2015,Real Estate,4590,,,,,,
+GA,2015,Others,27430,,,,,,
+GA,2016,Energy,45472,Direct tax,77402,Total Returns filed,180004,Total Dollar Amount,8636234.48
+GA,2016,Financials,11275,Indirect tax,102602,Filed by WK Product,79202,Dollar Amount by product ,1440252.24
+GA,2016,Health Care,34933,,,,,,
+GA,2016,Industrials,42659,,,,,,
+GA,2016,Information Technology,9570,,,,,,
+GA,2016,Real Estate,12636,,,,,,
+GA,2016,Others,23459,,,,,,
+HI,2010,Energy,44344,Direct tax,67370,Total Returns filed,129556,Total Dollar Amount,8636234.48
+HI,2010,Financials,3407,Indirect tax,62186,Filed by WK Product,59596,Dollar Amount by product ,1440252.24
+HI,2010,Health Care,31811,,,,,,
+HI,2010,Industrials,3013,,,,,,
+HI,2010,Information Technology,2897,,,,,,
+HI,2010,Real Estate,13107,,,,,,
+HI,2010,Others,30977,,,,,,
+HI,2011,Energy,14788,Direct tax,82867,Total Returns filed,150667,Total Dollar Amount,8636234.48
+HI,2011,Financials,29278,Indirect tax,67800,Filed by WK Product,40681,Dollar Amount by product ,1440252.24
+HI,2011,Health Care,26672,,,,,,
+HI,2011,Industrials,15154,,,,,,
+HI,2011,Information Technology,35716,,,,,,
+HI,2011,Real Estate,13124,,,,,,
+HI,2011,Others,15935,,,,,,
+HI,2012,Energy,42199,Direct tax,117075,Total Returns filed,209061,Total Dollar Amount,8636234.48
+HI,2012,Financials,36842,Indirect tax,91986,Filed by WK Product,37631,Dollar Amount by product ,1440252.24
+HI,2012,Health Care,13254,,,,,,
+HI,2012,Industrials,21679,,,,,,
+HI,2012,Information Technology,24550,,,,,,
+HI,2012,Real Estate,36192,,,,,,
+HI,2012,Others,34345,,,,,,
+HI,2013,Energy,40829,Direct tax,92886,Total Returns filed,175255,Total Dollar Amount,8636234.48
+HI,2013,Financials,35212,Indirect tax,82369,Filed by WK Product,43814,Dollar Amount by product ,1440252.24
+HI,2013,Health Care,9718,,,,,,
+HI,2013,Industrials,4874,,,,,,
+HI,2013,Information Technology,19008,,,,,,
+HI,2013,Real Estate,49649,,,,,,
+HI,2013,Others,15965,,,,,,
+HI,2014,Energy,39659,Direct tax,91536,Total Returns filed,166429,Total Dollar Amount,8636234.48
+HI,2014,Financials,20001,Indirect tax,74893,Filed by WK Product,51593,Dollar Amount by product ,1440252.24
+HI,2014,Health Care,28839,,,,,,
+HI,2014,Industrials,37865,,,,,,
+HI,2014,Information Technology,3755,,,,,,
+HI,2014,Real Estate,27625,,,,,,
+HI,2014,Others,8685,,,,,,
+HI,2015,Energy,25273,Direct tax,63066,Total Returns filed,131386,Total Dollar Amount,8636234.48
+HI,2015,Financials,15214,Indirect tax,68320,Filed by WK Product,65693,Dollar Amount by product ,1440252.24
+HI,2015,Health Care,32137,,,,,,
+HI,2015,Industrials,10402,,,,,,
+HI,2015,Information Technology,14502,,,,,,
+HI,2015,Real Estate,30822,,,,,,
+HI,2015,Others,3036,,,,,,
+HI,2016,Energy,22987,Direct tax,51911,Total Returns filed,97944,Total Dollar Amount,8636234.48
+HI,2016,Financials,27863,Indirect tax,46033,Filed by WK Product,46034,Dollar Amount by product ,1440252.24
+HI,2016,Health Care,3663,,,,,,
+HI,2016,Industrials,2972,,,,,,
+HI,2016,Information Technology,13451,,,,,,
+HI,2016,Real Estate,14662,,,,,,
+HI,2016,Others,12346,,,,,,
+ID,2010,Energy,6467,Direct tax,83015,Total Returns filed,156631,Total Dollar Amount,8636234.48
+ID,2010,Financials,30972,Indirect tax,73616,Filed by WK Product,36026,Dollar Amount by product ,1440252.24
+ID,2010,Health Care,17177,,,,,,
+ID,2010,Industrials,30569,,,,,,
+ID,2010,Information Technology,26237,,,,,,
+ID,2010,Real Estate,10277,,,,,,
+ID,2010,Others,34932,,,,,,
+ID,2011,Energy,32360,Direct tax,99616,Total Returns filed,237179,Total Dollar Amount,8636234.48
+ID,2011,Financials,16350,Indirect tax,137563,Filed by WK Product,54552,Dollar Amount by product ,1440252.24
+ID,2011,Health Care,42737,,,,,,
+ID,2011,Industrials,34218,,,,,,
+ID,2011,Information Technology,26527,,,,,,
+ID,2011,Real Estate,47929,,,,,,
+ID,2011,Others,37058,,,,,,
+ID,2012,Energy,20051,Direct tax,79351,Total Returns filed,155590,Total Dollar Amount,8636234.48
+ID,2012,Financials,7555,Indirect tax,76239,Filed by WK Product,71572,Dollar Amount by product ,1440252.24
+ID,2012,Health Care,15965,,,,,,
+ID,2012,Industrials,38105,,,,,,
+ID,2012,Information Technology,25627,,,,,,
+ID,2012,Real Estate,23581,,,,,,
+ID,2012,Others,24706,,,,,,
+ID,2013,Energy,5123,Direct tax,68946,Total Returns filed,125356,Total Dollar Amount,8636234.48
+ID,2013,Financials,16953,Indirect tax,56410,Filed by WK Product,21311,Dollar Amount by product ,1440252.24
+ID,2013,Health Care,28569,,,,,,
+ID,2013,Industrials,11539,,,,,,
+ID,2013,Information Technology,7795,,,,,,
+ID,2013,Real Estate,30541,,,,,,
+ID,2013,Others,24836,,,,,,
+ID,2014,Energy,25408,Direct tax,119705,Total Returns filed,217645,Total Dollar Amount,8636234.48
+ID,2014,Financials,34507,Indirect tax,97940,Filed by WK Product,52235,Dollar Amount by product ,1440252.24
+ID,2014,Health Care,26470,,,,,,
+ID,2014,Industrials,48789,,,,,,
+ID,2014,Information Technology,41767,,,,,,
+ID,2014,Real Estate,37809,,,,,,
+ID,2014,Others,2895,,,,,,
+ID,2015,Energy,41456,Direct tax,88417,Total Returns filed,157887,Total Dollar Amount,8636234.48
+ID,2015,Financials,12513,Indirect tax,69470,Filed by WK Product,67892,Dollar Amount by product ,1440252.24
+ID,2015,Health Care,47289,,,,,,
+ID,2015,Industrials,4055,,,,,,
+ID,2015,Information Technology,11234,,,,,,
+ID,2015,Real Estate,13346,,,,,,
+ID,2015,Others,27994,,,,,,
+ID,2016,Energy,46192,Direct tax,83896,Total Returns filed,195105,Total Dollar Amount,8636234.48
+ID,2016,Financials,32946,Indirect tax,111209,Filed by WK Product,48777,Dollar Amount by product ,1440252.24
+ID,2016,Health Care,13820,,,,,,
+ID,2016,Industrials,17775,,,,,,
+ID,2016,Information Technology,5242,,,,,,
+ID,2016,Real Estate,43833,,,,,,
+ID,2016,Others,35297,,,,,,
+IL,2010,Energy,40134,Direct tax,133857,Total Returns filed,252560,Total Dollar Amount,8636234.48
+IL,2010,Financials,19149,Indirect tax,118703,Filed by WK Product,58089,Dollar Amount by product ,1440252.24
+IL,2010,Health Care,40657,,,,,,
+IL,2010,Industrials,48611,,,,,,
+IL,2010,Information Technology,28797,,,,,,
+IL,2010,Real Estate,48130,,,,,,
+IL,2010,Others,27082,,,,,,
+IL,2011,Energy,4841,Direct tax,76642,Total Returns filed,186930,Total Dollar Amount,8636234.48
+IL,2011,Financials,45259,Indirect tax,110288,Filed by WK Product,67295,Dollar Amount by product ,1440252.24
+IL,2011,Health Care,14816,,,,,,
+IL,2011,Industrials,29799,,,,,,
+IL,2011,Information Technology,35934,,,,,,
+IL,2011,Real Estate,11511,,,,,,
+IL,2011,Others,44770,,,,,,
+IL,2012,Energy,47021,Direct tax,78430,Total Returns filed,142600,Total Dollar Amount,8636234.48
+IL,2012,Financials,21235,Indirect tax,64170,Filed by WK Product,47058,Dollar Amount by product ,1440252.24
+IL,2012,Health Care,14944,,,,,,
+IL,2012,Industrials,15882,,,,,,
+IL,2012,Information Technology,31412,,,,,,
+IL,2012,Real Estate,11023,,,,,,
+IL,2012,Others,1083,,,,,,
+IL,2013,Energy,13257,Direct tax,94967,Total Returns filed,202057,Total Dollar Amount,8636234.48
+IL,2013,Financials,10116,Indirect tax,107090,Filed by WK Product,78803,Dollar Amount by product ,1440252.24
+IL,2013,Health Care,45572,,,,,,
+IL,2013,Industrials,11750,,,,,,
+IL,2013,Information Technology,47118,,,,,,
+IL,2013,Real Estate,30142,,,,,,
+IL,2013,Others,44102,,,,,,
+IL,2014,Energy,27040,Direct tax,71466,Total Returns filed,155360,Total Dollar Amount,8636234.48
+IL,2014,Financials,35224,Indirect tax,83894,Filed by WK Product,38840,Dollar Amount by product ,1440252.24
+IL,2014,Health Care,28702,,,,,,
+IL,2014,Industrials,25993,,,,,,
+IL,2014,Information Technology,5564,,,,,,
+IL,2014,Real Estate,28611,,,,,,
+IL,2014,Others,4226,,,,,,
+IL,2015,Energy,15275,Direct tax,68704,Total Returns filed,143133,Total Dollar Amount,8636234.48
+IL,2015,Financials,17643,Indirect tax,74429,Filed by WK Product,50097,Dollar Amount by product ,1440252.24
+IL,2015,Health Care,4873,,,,,,
+IL,2015,Industrials,43977,,,,,,
+IL,2015,Information Technology,3847,,,,,,
+IL,2015,Real Estate,11655,,,,,,
+IL,2015,Others,45863,,,,,,
+IL,2016,Energy,28318,Direct tax,118972,Total Returns filed,198286,Total Dollar Amount,8636234.48
+IL,2016,Financials,2318,Indirect tax,79314,Filed by WK Product,31726,Dollar Amount by product ,1440252.24
+IL,2016,Health Care,23275,,,,,,
+IL,2016,Industrials,39736,,,,,,
+IL,2016,Information Technology,41440,,,,,,
+IL,2016,Real Estate,34149,,,,,,
+IL,2016,Others,29050,,,,,,
+IN,2010,Energy,29643,Direct tax,76011,Total Returns filed,168913,Total Dollar Amount,8636234.48
+IN,2010,Financials,43000,Indirect tax,92902,Filed by WK Product,30405,Dollar Amount by product ,1440252.24
+IN,2010,Health Care,4331,,,,,,
+IN,2010,Industrials,26128,,,,,,
+IN,2010,Information Technology,31608,,,,,,
+IN,2010,Real Estate,22042,,,,,,
+IN,2010,Others,12161,,,,,,
+IN,2011,Energy,8146,Direct tax,75863,Total Returns filed,189656,Total Dollar Amount,8636234.48
+IN,2011,Financials,42715,Indirect tax,113793,Filed by WK Product,30345,Dollar Amount by product ,1440252.24
+IN,2011,Health Care,18348,,,,,,
+IN,2011,Industrials,32811,,,,,,
+IN,2011,Information Technology,1345,,,,,,
+IN,2011,Real Estate,43814,,,,,,
+IN,2011,Others,42477,,,,,,
+IN,2012,Energy,42346,Direct tax,122809,Total Returns filed,245617,Total Dollar Amount,8636234.48
+IN,2012,Financials,20754,Indirect tax,122808,Filed by WK Product,49124,Dollar Amount by product ,1440252.24
+IN,2012,Health Care,38150,,,,,,
+IN,2012,Industrials,38840,,,,,,
+IN,2012,Information Technology,47959,,,,,,
+IN,2012,Real Estate,33825,,,,,,
+IN,2012,Others,23743,,,,,,
+IN,2013,Energy,30352,Direct tax,89430,Total Returns filed,171979,Total Dollar Amount,8636234.48
+IN,2013,Financials,26344,Indirect tax,82549,Filed by WK Product,46435,Dollar Amount by product ,1440252.24
+IN,2013,Health Care,35698,,,,,,
+IN,2013,Industrials,23864,,,,,,
+IN,2013,Information Technology,14542,,,,,,
+IN,2013,Real Estate,22924,,,,,,
+IN,2013,Others,18255,,,,,,
+IN,2014,Energy,6495,Direct tax,101758,Total Returns filed,169596,Total Dollar Amount,8636234.48
+IN,2014,Financials,46927,Indirect tax,67838,Filed by WK Product,61055,Dollar Amount by product ,1440252.24
+IN,2014,Health Care,19741,,,,,,
+IN,2014,Industrials,38329,,,,,,
+IN,2014,Information Technology,18719,,,,,,
+IN,2014,Real Estate,14607,,,,,,
+IN,2014,Others,24778,,,,,,
+IN,2015,Energy,30203,Direct tax,75516,Total Returns filed,127993,Total Dollar Amount,8636234.48
+IN,2015,Financials,24046,Indirect tax,52477,Filed by WK Product,60157,Dollar Amount by product ,1440252.24
+IN,2015,Health Care,19079,,,,,,
+IN,2015,Industrials,5038,,,,,,
+IN,2015,Information Technology,14404,,,,,,
+IN,2015,Real Estate,14831,,,,,,
+IN,2015,Others,20392,,,,,,
+IN,2016,Energy,30172,Direct tax,77116,Total Returns filed,154232,Total Dollar Amount,8636234.48
+IN,2016,Financials,30023,Indirect tax,77116,Filed by WK Product,23135,Dollar Amount by product ,1440252.24
+IN,2016,Health Care,36127,,,,,,
+IN,2016,Industrials,4102,,,,,,
+IN,2016,Information Technology,7771,,,,,,
+IN,2016,Real Estate,28659,,,,,,
+IN,2016,Others,17378,,,,,,
+IA,2010,Energy,43406,Direct tax,121889,Total Returns filed,253935,Total Dollar Amount,8636234.48
+IA,2010,Financials,42467,Indirect tax,132046,Filed by WK Product,119350,Dollar Amount by product ,1440252.24
+IA,2010,Health Care,41623,,,,,,
+IA,2010,Industrials,28119,,,,,,
+IA,2010,Information Technology,48089,,,,,,
+IA,2010,Real Estate,21926,,,,,,
+IA,2010,Others,28305,,,,,,
+IA,2011,Energy,19786,Direct tax,116265,Total Returns filed,215304,Total Dollar Amount,8636234.48
+IA,2011,Financials,4165,Indirect tax,99039,Filed by WK Product,55980,Dollar Amount by product ,1440252.24
+IA,2011,Health Care,49708,,,,,,
+IA,2011,Industrials,46819,,,,,,
+IA,2011,Information Technology,37767,,,,,,
+IA,2011,Real Estate,11425,,,,,,
+IA,2011,Others,45634,,,,,,
+IA,2012,Energy,48574,Direct tax,132347,Total Returns filed,220577,Total Dollar Amount,8636234.48
+IA,2012,Financials,24952,Indirect tax,88230,Filed by WK Product,63968,Dollar Amount by product ,1440252.24
+IA,2012,Health Care,41387,,,,,,
+IA,2012,Industrials,38155,,,,,,
+IA,2012,Information Technology,46741,,,,,,
+IA,2012,Real Estate,12586,,,,,,
+IA,2012,Others,8182,,,,,,
+IA,2013,Energy,13738,Direct tax,104398,Total Returns filed,179995,Total Dollar Amount,8636234.48
+IA,2013,Financials,10812,Indirect tax,75597,Filed by WK Product,89998,Dollar Amount by product ,1440252.24
+IA,2013,Health Care,36344,,,,,,
+IA,2013,Industrials,4778,,,,,,
+IA,2013,Information Technology,46054,,,,,,
+IA,2013,Real Estate,18295,,,,,,
+IA,2013,Others,49974,,,,,,
+IA,2014,Energy,37422,Direct tax,93958,Total Returns filed,180687,Total Dollar Amount,8636234.48
+IA,2014,Financials,12732,Indirect tax,86729,Filed by WK Product,30717,Dollar Amount by product ,1440252.24
+IA,2014,Health Care,17514,,,,,,
+IA,2014,Industrials,37644,,,,,,
+IA,2014,Information Technology,28164,,,,,,
+IA,2014,Real Estate,35855,,,,,,
+IA,2014,Others,11356,,,,,,
+IA,2015,Energy,44724,Direct tax,99491,Total Returns filed,236881,Total Dollar Amount,8636234.48
+IA,2015,Financials,31749,Indirect tax,137390,Filed by WK Product,108966,Dollar Amount by product ,1440252.24
+IA,2015,Health Care,39896,,,,,,
+IA,2015,Industrials,25211,,,,,,
+IA,2015,Information Technology,15857,,,,,,
+IA,2015,Real Estate,45880,,,,,,
+IA,2015,Others,33564,,,,,,
+IA,2016,Energy,14301,Direct tax,59082,Total Returns filed,144102,Total Dollar Amount,8636234.48
+IA,2016,Financials,47166,Indirect tax,85020,Filed by WK Product,41790,Dollar Amount by product ,1440252.24
+IA,2016,Health Care,11814,,,,,,
+IA,2016,Industrials,4905,,,,,,
+IA,2016,Information Technology,36279,,,,,,
+IA,2016,Real Estate,25318,,,,,,
+IA,2016,Others,4319,,,,,,
+KS,2010,Energy,29458,Direct tax,88183,Total Returns filed,157469,Total Dollar Amount,8636234.48
+KS,2010,Financials,41754,Indirect tax,69286,Filed by WK Product,29920,Dollar Amount by product ,1440252.24
+KS,2010,Health Care,10218,,,,,,
+KS,2010,Industrials,17193,,,,,,
+KS,2010,Information Technology,18088,,,,,,
+KS,2010,Real Estate,20044,,,,,,
+KS,2010,Others,20714,,,,,,
+KS,2011,Energy,34804,Direct tax,60567,Total Returns filed,144207,Total Dollar Amount,8636234.48
+KS,2011,Financials,1160,Indirect tax,83640,Filed by WK Product,33168,Dollar Amount by product ,1440252.24
+KS,2011,Health Care,22748,,,,,,
+KS,2011,Industrials,3079,,,,,,
+KS,2011,Information Technology,32273,,,,,,
+KS,2011,Real Estate,3989,,,,,,
+KS,2011,Others,46154,,,,,,
+KS,2012,Energy,44428,Direct tax,71196,Total Returns filed,158212,Total Dollar Amount,8636234.48
+KS,2012,Financials,16817,Indirect tax,87016,Filed by WK Product,28479,Dollar Amount by product ,1440252.24
+KS,2012,Health Care,13744,,,,,,
+KS,2012,Industrials,23372,,,,,,
+KS,2012,Information Technology,8094,,,,,,
+KS,2012,Real Estate,41174,,,,,,
+KS,2012,Others,10583,,,,,,
+KS,2013,Energy,35984,Direct tax,100283,Total Returns filed,204659,Total Dollar Amount,8636234.48
+KS,2013,Financials,34114,Indirect tax,104376,Filed by WK Product,61398,Dollar Amount by product ,1440252.24
+KS,2013,Health Care,25898,,,,,,
+KS,2013,Industrials,39984,,,,,,
+KS,2013,Information Technology,20926,,,,,,
+KS,2013,Real Estate,22187,,,,,,
+KS,2013,Others,25566,,,,,,
+KS,2014,Energy,2281,Direct tax,90120,Total Returns filed,150200,Total Dollar Amount,8636234.48
+KS,2014,Financials,36664,Indirect tax,60080,Filed by WK Product,72096,Dollar Amount by product ,1440252.24
+KS,2014,Health Care,35391,,,,,,
+KS,2014,Industrials,34489,,,,,,
+KS,2014,Information Technology,11909,,,,,,
+KS,2014,Real Estate,4928,,,,,,
+KS,2014,Others,24538,,,,,,
+KS,2015,Energy,38436,Direct tax,92800,Total Returns filed,168726,Total Dollar Amount,8636234.48
+KS,2015,Financials,17993,Indirect tax,75926,Filed by WK Product,42182,Dollar Amount by product ,1440252.24
+KS,2015,Health Care,15349,,,,,,
+KS,2015,Industrials,34723,,,,,,
+KS,2015,Information Technology,20799,,,,,,
+KS,2015,Real Estate,5540,,,,,,
+KS,2015,Others,35886,,,,,,
+KS,2016,Energy,44662,Direct tax,75245,Total Returns filed,171010,Total Dollar Amount,8636234.48
+KS,2016,Financials,20398,Indirect tax,95765,Filed by WK Product,39333,Dollar Amount by product ,1440252.24
+KS,2016,Health Care,13915,,,,,,
+KS,2016,Industrials,46659,,,,,,
+KS,2016,Information Technology,29112,,,,,,
+KS,2016,Real Estate,1590,,,,,,
+KS,2016,Others,14674,,,,,,
+KY,2010,Energy,16215,Direct tax,96382,Total Returns filed,166175,Total Dollar Amount,8636234.48
+KY,2010,Financials,37650,Indirect tax,69793,Filed by WK Product,76441,Dollar Amount by product ,1440252.24
+KY,2010,Health Care,11836,,,,,,
+KY,2010,Industrials,36822,,,,,,
+KY,2010,Information Technology,17156,,,,,,
+KY,2010,Real Estate,33796,,,,,,
+KY,2010,Others,12700,,,,,,
+KY,2011,Energy,30984,Direct tax,113739,Total Returns filed,258496,Total Dollar Amount,8636234.48
+KY,2011,Financials,48561,Indirect tax,144757,Filed by WK Product,129248,Dollar Amount by product ,1440252.24
+KY,2011,Health Care,32836,,,,,,
+KY,2011,Industrials,47593,,,,,,
+KY,2011,Information Technology,47691,,,,,,
+KY,2011,Real Estate,31611,,,,,,
+KY,2011,Others,19220,,,,,,
+KY,2012,Energy,21114,Direct tax,67057,Total Returns filed,136850,Total Dollar Amount,8636234.48
+KY,2012,Financials,1834,Indirect tax,69793,Filed by WK Product,67057,Dollar Amount by product ,1440252.24
+KY,2012,Health Care,45938,,,,,,
+KY,2012,Industrials,24509,,,,,,
+KY,2012,Information Technology,7204,,,,,,
+KY,2012,Real Estate,13530,,,,,,
+KY,2012,Others,22721,,,,,,
+KY,2013,Energy,33109,Direct tax,116440,Total Returns filed,197355,Total Dollar Amount,8636234.48
+KY,2013,Financials,43988,Indirect tax,80915,Filed by WK Product,29604,Dollar Amount by product ,1440252.24
+KY,2013,Health Care,20845,,,,,,
+KY,2013,Industrials,4576,,,,,,
+KY,2013,Information Technology,31934,,,,,,
+KY,2013,Real Estate,15104,,,,,,
+KY,2013,Others,47799,,,,,,
+KY,2014,Energy,43620,Direct tax,108801,Total Returns filed,201482,Total Dollar Amount,8636234.48
+KY,2014,Financials,29840,Indirect tax,92681,Filed by WK Product,58430,Dollar Amount by product ,1440252.24
+KY,2014,Health Care,12469,,,,,,
+KY,2014,Industrials,34248,,,,,,
+KY,2014,Information Technology,20846,,,,,,
+KY,2014,Real Estate,47936,,,,,,
+KY,2014,Others,12523,,,,,,
+KY,2015,Energy,48333,Direct tax,92418,Total Returns filed,168031,Total Dollar Amount,8636234.48
+KY,2015,Financials,30475,Indirect tax,75613,Filed by WK Product,60492,Dollar Amount by product ,1440252.24
+KY,2015,Health Care,7002,,,,,,
+KY,2015,Industrials,27256,,,,,,
+KY,2015,Information Technology,3582,,,,,,
+KY,2015,Real Estate,43183,,,,,,
+KY,2015,Others,8200,,,,,,
+KY,2016,Energy,37950,Direct tax,114885,Total Returns filed,191475,Total Dollar Amount,8636234.48
+KY,2016,Financials,46932,Indirect tax,76590,Filed by WK Product,32551,Dollar Amount by product ,1440252.24
+KY,2016,Health Care,34441,,,,,,
+KY,2016,Industrials,7399,,,,,,
+KY,2016,Information Technology,4167,,,,,,
+KY,2016,Real Estate,32140,,,,,,
+KY,2016,Others,28446,,,,,,
+LA,2010,Energy,34697,Direct tax,100044,Total Returns filed,238200,Total Dollar Amount,8636234.48
+LA,2010,Financials,46866,Indirect tax,138156,Filed by WK Product,69078,Dollar Amount by product ,1440252.24
+LA,2010,Health Care,27499,,,,,,
+LA,2010,Industrials,40045,,,,,,
+LA,2010,Information Technology,43358,,,,,,
+LA,2010,Real Estate,36375,,,,,,
+LA,2010,Others,9360,,,,,,
+LA,2011,Energy,1851,Direct tax,112306,Total Returns filed,187176,Total Dollar Amount,8636234.48
+LA,2011,Financials,41113,Indirect tax,74870,Filed by WK Product,54282,Dollar Amount by product ,1440252.24
+LA,2011,Health Care,27097,,,,,,
+LA,2011,Industrials,21294,,,,,,
+LA,2011,Information Technology,10598,,,,,,
+LA,2011,Real Estate,47746,,,,,,
+LA,2011,Others,37477,,,,,,
+LA,2012,Energy,16394,Direct tax,82309,Total Returns filed,191414,Total Dollar Amount,8636234.48
+LA,2012,Financials,32696,Indirect tax,109105,Filed by WK Product,91879,Dollar Amount by product ,1440252.24
+LA,2012,Health Care,45597,,,,,,
+LA,2012,Industrials,26963,,,,,,
+LA,2012,Information Technology,36154,,,,,,
+LA,2012,Real Estate,14945,,,,,,
+LA,2012,Others,18665,,,,,,
+LA,2013,Energy,39371,Direct tax,71290,Total Returns filed,142580,Total Dollar Amount,8636234.48
+LA,2013,Financials,15164,Indirect tax,71290,Filed by WK Product,34220,Dollar Amount by product ,1440252.24
+LA,2013,Health Care,10311,,,,,,
+LA,2013,Industrials,49335,,,,,,
+LA,2013,Information Technology,16253,,,,,,
+LA,2013,Real Estate,4261,,,,,,
+LA,2013,Others,7885,,,,,,
+LA,2014,Energy,24719,Direct tax,94050,Total Returns filed,174165,Total Dollar Amount,8636234.48
+LA,2014,Financials,3672,Indirect tax,80115,Filed by WK Product,31350,Dollar Amount by product ,1440252.24
+LA,2014,Health Care,25878,,,,,,
+LA,2014,Industrials,47807,,,,,,
+LA,2014,Information Technology,24518,,,,,,
+LA,2014,Real Estate,28046,,,,,,
+LA,2014,Others,19525,,,,,,
+LA,2015,Energy,10347,Direct tax,78431,Total Returns filed,182396,Total Dollar Amount,8636234.48
+LA,2015,Financials,34703,Indirect tax,103965,Filed by WK Product,32832,Dollar Amount by product ,1440252.24
+LA,2015,Health Care,32287,,,,,,
+LA,2015,Industrials,5197,,,,,,
+LA,2015,Information Technology,31575,,,,,,
+LA,2015,Real Estate,41993,,,,,,
+LA,2015,Others,26294,,,,,,
+LA,2016,Energy,17166,Direct tax,105756,Total Returns filed,192283,Total Dollar Amount,8636234.48
+LA,2016,Financials,49101,Indirect tax,86527,Filed by WK Product,51917,Dollar Amount by product ,1440252.24
+LA,2016,Health Care,36698,,,,,,
+LA,2016,Industrials,35592,,,,,,
+LA,2016,Information Technology,41603,,,,,,
+LA,2016,Real Estate,1824,,,,,,
+LA,2016,Others,10299,,,,,,
+ME,2010,Energy,48728,Direct tax,86194,Total Returns filed,191541,Total Dollar Amount,8636234.48
+ME,2010,Financials,15456,Indirect tax,105347,Filed by WK Product,49801,Dollar Amount by product ,1440252.24
+ME,2010,Health Care,22505,,,,,,
+ME,2010,Industrials,30344,,,,,,
+ME,2010,Information Technology,38136,,,,,,
+ME,2010,Real Estate,7200,,,,,,
+ME,2010,Others,29172,,,,,,
+ME,2011,Energy,13550,Direct tax,70339,Total Returns filed,167473,Total Dollar Amount,8636234.48
+ME,2011,Financials,35842,Indirect tax,97134,Filed by WK Product,75363,Dollar Amount by product ,1440252.24
+ME,2011,Health Care,21381,,,,,,
+ME,2011,Industrials,37886,,,,,,
+ME,2011,Information Technology,19899,,,,,,
+ME,2011,Real Estate,11148,,,,,,
+ME,2011,Others,27767,,,,,,
+ME,2012,Energy,39382,Direct tax,89599,Total Returns filed,172304,Total Dollar Amount,8636234.48
+ME,2012,Financials,34205,Indirect tax,82705,Filed by WK Product,53415,Dollar Amount by product ,1440252.24
+ME,2012,Health Care,16776,,,,,,
+ME,2012,Industrials,36499,,,,,,
+ME,2012,Information Technology,28706,,,,,,
+ME,2012,Real Estate,6454,,,,,,
+ME,2012,Others,10282,,,,,,
+ME,2013,Energy,10313,Direct tax,94165,Total Returns filed,168151,Total Dollar Amount,8636234.48
+ME,2013,Financials,29025,Indirect tax,73986,Filed by WK Product,53809,Dollar Amount by product ,1440252.24
+ME,2013,Health Care,18293,,,,,,
+ME,2013,Industrials,43646,,,,,,
+ME,2013,Information Technology,49603,,,,,,
+ME,2013,Real Estate,8748,,,,,,
+ME,2013,Others,8523,,,,,,
+ME,2014,Energy,1888,Direct tax,52830,Total Returns filed,88049,Total Dollar Amount,8636234.48
+ME,2014,Financials,23197,Indirect tax,35219,Filed by WK Product,44025,Dollar Amount by product ,1440252.24
+ME,2014,Health Care,29731,,,,,,
+ME,2014,Industrials,24944,,,,,,
+ME,2014,Information Technology,1579,,,,,,
+ME,2014,Real Estate,1747,,,,,,
+ME,2014,Others,4963,,,,,,
+ME,2015,Energy,41816,Direct tax,109851,Total Returns filed,192720,Total Dollar Amount,8636234.48
+ME,2015,Financials,4715,Indirect tax,82869,Filed by WK Product,59744,Dollar Amount by product ,1440252.24
+ME,2015,Health Care,47142,,,,,,
+ME,2015,Industrials,13514,,,,,,
+ME,2015,Information Technology,3750,,,,,,
+ME,2015,Real Estate,45432,,,,,,
+ME,2015,Others,36351,,,,,,
+ME,2016,Energy,6485,Direct tax,96976,Total Returns filed,206331,Total Dollar Amount,8636234.48
+ME,2016,Financials,22589,Indirect tax,109355,Filed by WK Product,76343,Dollar Amount by product ,1440252.24
+ME,2016,Health Care,10044,,,,,,
+ME,2016,Industrials,43412,,,,,,
+ME,2016,Information Technology,45779,,,,,,
+ME,2016,Real Estate,33213,,,,,,
+ME,2016,Others,44809,,,,,,
+MD,2010,Energy,41258,Direct tax,71844,Total Returns filed,146620,Total Dollar Amount,8636234.48
+MD,2010,Financials,3775,Indirect tax,74776,Filed by WK Product,68912,Dollar Amount by product ,1440252.24
+MD,2010,Health Care,19579,,,,,,
+MD,2010,Industrials,8052,,,,,,
+MD,2010,Information Technology,2342,,,,,,
+MD,2010,Real Estate,29964,,,,,,
+MD,2010,Others,41650,,,,,,
+MD,2011,Energy,42482,Direct tax,81410,Total Returns filed,185022,Total Dollar Amount,8636234.48
+MD,2011,Financials,39144,Indirect tax,103612,Filed by WK Product,66608,Dollar Amount by product ,1440252.24
+MD,2011,Health Care,16611,,,,,,
+MD,2011,Industrials,27024,,,,,,
+MD,2011,Information Technology,12361,,,,,,
+MD,2011,Real Estate,28367,,,,,,
+MD,2011,Others,19033,,,,,,
+MD,2012,Energy,6848,Direct tax,72000,Total Returns filed,180000,Total Dollar Amount,8636234.48
+MD,2012,Financials,48519,Indirect tax,108000,Filed by WK Product,72000,Dollar Amount by product ,1440252.24
+MD,2012,Health Care,6039,,,,,,
+MD,2012,Industrials,20478,,,,,,
+MD,2012,Information Technology,25295,,,,,,
+MD,2012,Real Estate,45247,,,,,,
+MD,2012,Others,27574,,,,,,
+MD,2013,Energy,16687,Direct tax,66208,Total Returns filed,157637,Total Dollar Amount,8636234.48
+MD,2013,Financials,22640,Indirect tax,91429,Filed by WK Product,33104,Dollar Amount by product ,1440252.24
+MD,2013,Health Care,36270,,,,,,
+MD,2013,Industrials,35749,,,,,,
+MD,2013,Information Technology,23297,,,,,,
+MD,2013,Real Estate,5350,,,,,,
+MD,2013,Others,17644,,,,,,
+MD,2014,Energy,19769,Direct tax,60722,Total Returns filed,151804,Total Dollar Amount,8636234.48
+MD,2014,Financials,32946,Indirect tax,91082,Filed by WK Product,44024,Dollar Amount by product ,1440252.24
+MD,2014,Health Care,30301,,,,,,
+MD,2014,Industrials,13673,,,,,,
+MD,2014,Information Technology,10638,,,,,,
+MD,2014,Real Estate,26892,,,,,,
+MD,2014,Others,17585,,,,,,
+MD,2015,Energy,18825,Direct tax,107252,Total Returns filed,181783,Total Dollar Amount,8636234.48
+MD,2015,Financials,40379,Indirect tax,74531,Filed by WK Product,36357,Dollar Amount by product ,1440252.24
+MD,2015,Health Care,4777,,,,,,
+MD,2015,Industrials,39605,,,,,,
+MD,2015,Information Technology,12855,,,,,,
+MD,2015,Real Estate,30267,,,,,,
+MD,2015,Others,35075,,,,,,
+MD,2016,Energy,19293,Direct tax,64654,Total Returns filed,140551,Total Dollar Amount,8636234.48
+MD,2016,Financials,27197,Indirect tax,75897,Filed by WK Product,37949,Dollar Amount by product ,1440252.24
+MD,2016,Health Care,15019,,,,,,
+MD,2016,Industrials,19036,,,,,,
+MD,2016,Information Technology,22265,,,,,,
+MD,2016,Real Estate,6618,,,,,,
+MD,2016,Others,31123,,,,,,
+MA,2010,Energy,32814,Direct tax,93537,Total Returns filed,199014,Total Dollar Amount,8636234.48
+MA,2010,Financials,49189,Indirect tax,105477,Filed by WK Product,89557,Dollar Amount by product ,1440252.24
+MA,2010,Health Care,49593,,,,,,
+MA,2010,Industrials,5154,,,,,,
+MA,2010,Information Technology,12485,,,,,,
+MA,2010,Real Estate,24996,,,,,,
+MA,2010,Others,24783,,,,,,
+MA,2011,Energy,15195,Direct tax,54206,Total Returns filed,126059,Total Dollar Amount,8636234.48
+MA,2011,Financials,35233,Indirect tax,71853,Filed by WK Product,18909,Dollar Amount by product ,1440252.24
+MA,2011,Health Care,3701,,,,,,
+MA,2011,Industrials,16390,,,,,,
+MA,2011,Information Technology,33114,,,,,,
+MA,2011,Real Estate,1320,,,,,,
+MA,2011,Others,21106,,,,,,
+MA,2012,Energy,24501,Direct tax,110677,Total Returns filed,190821,Total Dollar Amount,8636234.48
+MA,2012,Financials,33792,Indirect tax,80144,Filed by WK Product,55339,Dollar Amount by product ,1440252.24
+MA,2012,Health Care,43679,,,,,,
+MA,2012,Industrials,9807,,,,,,
+MA,2012,Information Technology,5774,,,,,,
+MA,2012,Real Estate,28324,,,,,,
+MA,2012,Others,44944,,,,,,
+MA,2013,Energy,18934,Direct tax,63797,Total Returns filed,130196,Total Dollar Amount,8636234.48
+MA,2013,Financials,8773,Indirect tax,66399,Filed by WK Product,26040,Dollar Amount by product ,1440252.24
+MA,2013,Health Care,37064,,,,,,
+MA,2013,Industrials,7520,,,,,,
+MA,2013,Information Technology,41286,,,,,,
+MA,2013,Real Estate,14213,,,,,,
+MA,2013,Others,2406,,,,,,
+MA,2014,Energy,42661,Direct tax,77983,Total Returns filed,185673,Total Dollar Amount,8636234.48
+MA,2014,Financials,28831,Indirect tax,107690,Filed by WK Product,87267,Dollar Amount by product ,1440252.24
+MA,2014,Health Care,4076,,,,,,
+MA,2014,Industrials,38697,,,,,,
+MA,2014,Information Technology,11036,,,,,,
+MA,2014,Real Estate,13100,,,,,,
+MA,2014,Others,47272,,,,,,
+MA,2015,Energy,2027,Direct tax,88108,Total Returns filed,160195,Total Dollar Amount,8636234.48
+MA,2015,Financials,25663,Indirect tax,72087,Filed by WK Product,33641,Dollar Amount by product ,1440252.24
+MA,2015,Health Care,39112,,,,,,
+MA,2015,Industrials,8855,,,,,,
+MA,2015,Information Technology,48478,,,,,,
+MA,2015,Real Estate,4319,,,,,,
+MA,2015,Others,31741,,,,,,
+MA,2016,Energy,22141,Direct tax,84398,Total Returns filed,210993,Total Dollar Amount,8636234.48
+MA,2016,Financials,46316,Indirect tax,126595,Filed by WK Product,71738,Dollar Amount by product ,1440252.24
+MA,2016,Health Care,28727,,,,,,
+MA,2016,Industrials,14446,,,,,,
+MA,2016,Information Technology,30737,,,,,,
+MA,2016,Real Estate,31709,,,,,,
+MA,2016,Others,36917,,,,,,
+MI,2010,Energy,21145,Direct tax,121191,Total Returns filed,237628,Total Dollar Amount,8636234.48
+MI,2010,Financials,33546,Indirect tax,116437,Filed by WK Product,73665,Dollar Amount by product ,1440252.24
+MI,2010,Health Care,47588,,,,,,
+MI,2010,Industrials,48624,,,,,,
+MI,2010,Information Technology,19801,,,,,,
+MI,2010,Real Estate,16977,,,,,,
+MI,2010,Others,49947,,,,,,
+MI,2011,Energy,43477,Direct tax,98271,Total Returns filed,185416,Total Dollar Amount,8636234.48
+MI,2011,Financials,23741,Indirect tax,87145,Filed by WK Product,53771,Dollar Amount by product ,1440252.24
+MI,2011,Health Care,23251,,,,,,
+MI,2011,Industrials,38959,,,,,,
+MI,2011,Information Technology,29056,,,,,,
+MI,2011,Real Estate,5338,,,,,,
+MI,2011,Others,21594,,,,,,
+MI,2012,Energy,10728,Direct tax,48836,Total Returns filed,110989,Total Dollar Amount,8636234.48
+MI,2012,Financials,10147,Indirect tax,62153,Filed by WK Product,43286,Dollar Amount by product ,1440252.24
+MI,2012,Health Care,16549,,,,,,
+MI,2012,Industrials,31021,,,,,,
+MI,2012,Information Technology,7552,,,,,,
+MI,2012,Real Estate,18514,,,,,,
+MI,2012,Others,16478,,,,,,
+MI,2013,Energy,46964,Direct tax,102737,Total Returns filed,183458,Total Dollar Amount,8636234.48
+MI,2013,Financials,14255,Indirect tax,80721,Filed by WK Product,34858,Dollar Amount by product ,1440252.24
+MI,2013,Health Care,30387,,,,,,
+MI,2013,Industrials,7885,,,,,,
+MI,2013,Information Technology,30773,,,,,,
+MI,2013,Real Estate,24863,,,,,,
+MI,2013,Others,28331,,,,,,
+MI,2014,Energy,41668,Direct tax,75685,Total Returns filed,164532,Total Dollar Amount,8636234.48
+MI,2014,Financials,27971,Indirect tax,88847,Filed by WK Product,44424,Dollar Amount by product ,1440252.24
+MI,2014,Health Care,34734,,,,,,
+MI,2014,Industrials,32479,,,,,,
+MI,2014,Information Technology,4461,,,,,,
+MI,2014,Real Estate,9149,,,,,,
+MI,2014,Others,14070,,,,,,
+MI,2015,Energy,25666,Direct tax,92758,Total Returns filed,175014,Total Dollar Amount,8636234.48
+MI,2015,Financials,38778,Indirect tax,82256,Filed by WK Product,26253,Dollar Amount by product ,1440252.24
+MI,2015,Health Care,42629,,,,,,
+MI,2015,Industrials,21448,,,,,,
+MI,2015,Information Technology,15042,,,,,,
+MI,2015,Real Estate,20113,,,,,,
+MI,2015,Others,11338,,,,,,
+MI,2016,Energy,29352,Direct tax,98658,Total Returns filed,164429,Total Dollar Amount,8636234.48
+MI,2016,Financials,47027,Indirect tax,65771,Filed by WK Product,49329,Dollar Amount by product ,1440252.24
+MI,2016,Health Care,7388,,,,,,
+MI,2016,Industrials,16578,,,,,,
+MI,2016,Information Technology,15023,,,,,,
+MI,2016,Real Estate,13377,,,,,,
+MI,2016,Others,35684,,,,,,
+MN,2010,Energy,20979,Direct tax,95936,Total Returns filed,191872,Total Dollar Amount,8636234.48
+MN,2010,Financials,28035,Indirect tax,95936,Filed by WK Product,92099,Dollar Amount by product ,1440252.24
+MN,2010,Health Care,9913,,,,,,
+MN,2010,Industrials,41268,,,,,,
+MN,2010,Information Technology,39241,,,,,,
+MN,2010,Real Estate,14653,,,,,,
+MN,2010,Others,37783,,,,,,
+MN,2011,Energy,20334,Direct tax,119945,Total Returns filed,249885,Total Dollar Amount,8636234.48
+MN,2011,Financials,34590,Indirect tax,129940,Filed by WK Product,77465,Dollar Amount by product ,1440252.24
+MN,2011,Health Care,48963,,,,,,
+MN,2011,Industrials,30232,,,,,,
+MN,2011,Information Technology,42338,,,,,,
+MN,2011,Real Estate,27661,,,,,,
+MN,2011,Others,45767,,,,,,
+MN,2012,Energy,11265,Direct tax,98486,Total Returns filed,185822,Total Dollar Amount,8636234.48
+MN,2012,Financials,38591,Indirect tax,87336,Filed by WK Product,91053,Dollar Amount by product ,1440252.24
+MN,2012,Health Care,23841,,,,,,
+MN,2012,Industrials,39749,,,,,,
+MN,2012,Information Technology,5275,,,,,,
+MN,2012,Real Estate,38088,,,,,,
+MN,2012,Others,29013,,,,,,
+MN,2013,Energy,6575,Direct tax,68646,Total Returns filed,149230,Total Dollar Amount,8636234.48
+MN,2013,Financials,20174,Indirect tax,80584,Filed by WK Product,23877,Dollar Amount by product ,1440252.24
+MN,2013,Health Care,4075,,,,,,
+MN,2013,Industrials,45739,,,,,,
+MN,2013,Information Technology,18546,,,,,,
+MN,2013,Real Estate,38459,,,,,,
+MN,2013,Others,15662,,,,,,
+MN,2014,Energy,29855,Direct tax,142195,Total Returns filed,236991,Total Dollar Amount,8636234.48
+MN,2014,Financials,31152,Indirect tax,94796,Filed by WK Product,35549,Dollar Amount by product ,1440252.24
+MN,2014,Health Care,26585,,,,,,
+MN,2014,Industrials,40822,,,,,,
+MN,2014,Information Technology,19919,,,,,,
+MN,2014,Real Estate,45297,,,,,,
+MN,2014,Others,43361,,,,,,
+MN,2015,Energy,38840,Direct tax,89796,Total Returns filed,204080,Total Dollar Amount,8636234.48
+MN,2015,Financials,5078,Indirect tax,114284,Filed by WK Product,59184,Dollar Amount by product ,1440252.24
+MN,2015,Health Care,12282,,,,,,
+MN,2015,Industrials,9273,,,,,,
+MN,2015,Information Technology,40146,,,,,,
+MN,2015,Real Estate,49944,,,,,,
+MN,2015,Others,48517,,,,,,
+MN,2016,Energy,22752,Direct tax,90804,Total Returns filed,165097,Total Dollar Amount,8636234.48
+MN,2016,Financials,37918,Indirect tax,74293,Filed by WK Product,77596,Dollar Amount by product ,1440252.24
+MN,2016,Health Care,13512,,,,,,
+MN,2016,Industrials,40358,,,,,,
+MN,2016,Information Technology,14188,,,,,,
+MN,2016,Real Estate,11528,,,,,,
+MN,2016,Others,24841,,,,,,
+MS,2010,Energy,29565,Direct tax,89326,Total Returns filed,148876,Total Dollar Amount,8636234.48
+MS,2010,Financials,19717,Indirect tax,59550,Filed by WK Product,66995,Dollar Amount by product ,1440252.24
+MS,2010,Health Care,41634,,,,,,
+MS,2010,Industrials,9435,,,,,,
+MS,2010,Information Technology,26152,,,,,,
+MS,2010,Real Estate,17730,,,,,,
+MS,2010,Others,4643,,,,,,
+MS,2011,Energy,46265,Direct tax,78918,Total Returns filed,187900,Total Dollar Amount,8636234.48
+MS,2011,Financials,30258,Indirect tax,108982,Filed by WK Product,39459,Dollar Amount by product ,1440252.24
+MS,2011,Health Care,30752,,,,,,
+MS,2011,Industrials,12928,,,,,,
+MS,2011,Information Technology,14287,,,,,,
+MS,2011,Real Estate,44626,,,,,,
+MS,2011,Others,8784,,,,,,
+MS,2012,Energy,42852,Direct tax,99320,Total Returns filed,165533,Total Dollar Amount,8636234.48
+MS,2012,Financials,32770,Indirect tax,66213,Filed by WK Product,57937,Dollar Amount by product ,1440252.24
+MS,2012,Health Care,23527,,,,,,
+MS,2012,Industrials,26311,,,,,,
+MS,2012,Information Technology,17497,,,,,,
+MS,2012,Real Estate,12506,,,,,,
+MS,2012,Others,10070,,,,,,
+MS,2013,Energy,30331,Direct tax,95132,Total Returns filed,198190,Total Dollar Amount,8636234.48
+MS,2013,Financials,12379,Indirect tax,103058,Filed by WK Product,55494,Dollar Amount by product ,1440252.24
+MS,2013,Health Care,48902,,,,,,
+MS,2013,Industrials,28648,,,,,,
+MS,2013,Information Technology,40611,,,,,,
+MS,2013,Real Estate,17118,,,,,,
+MS,2013,Others,20201,,,,,,
+MS,2014,Energy,47623,Direct tax,129344,Total Returns filed,215572,Total Dollar Amount,8636234.48
+MS,2014,Financials,42506,Indirect tax,86228,Filed by WK Product,73295,Dollar Amount by product ,1440252.24
+MS,2014,Health Care,7791,,,,,,
+MS,2014,Industrials,4493,,,,,,
+MS,2014,Information Technology,49003,,,,,,
+MS,2014,Real Estate,14182,,,,,,
+MS,2014,Others,49974,,,,,,
+MS,2015,Energy,45552,Direct tax,110721,Total Returns filed,208907,Total Dollar Amount,8636234.48
+MS,2015,Financials,24677,Indirect tax,98186,Filed by WK Product,43871,Dollar Amount by product ,1440252.24
+MS,2015,Health Care,16135,,,,,,
+MS,2015,Industrials,45385,,,,,,
+MS,2015,Information Technology,34138,,,,,,
+MS,2015,Real Estate,14594,,,,,,
+MS,2015,Others,28426,,,,,,
+MS,2016,Energy,12599,Direct tax,75663,Total Returns filed,151326,Total Dollar Amount,8636234.48
+MS,2016,Financials,6260,Indirect tax,75663,Filed by WK Product,42372,Dollar Amount by product ,1440252.24
+MS,2016,Health Care,33887,,,,,,
+MS,2016,Industrials,29370,,,,,,
+MS,2016,Information Technology,3063,,,,,,
+MS,2016,Real Estate,25846,,,,,,
+MS,2016,Others,40301,,,,,,
+MO,2010,Energy,22761,Direct tax,88515,Total Returns filed,205847,Total Dollar Amount,8636234.48
+MO,2010,Financials,41110,Indirect tax,117332,Filed by WK Product,88515,Dollar Amount by product ,1440252.24
+MO,2010,Health Care,20291,,,,,,
+MO,2010,Industrials,29746,,,,,,
+MO,2010,Information Technology,24338,,,,,,
+MO,2010,Real Estate,29688,,,,,,
+MO,2010,Others,37913,,,,,,
+MO,2011,Energy,29294,Direct tax,54564,Total Returns filed,136410,Total Dollar Amount,8636234.48
+MO,2011,Financials,26076,Indirect tax,81846,Filed by WK Product,46380,Dollar Amount by product ,1440252.24
+MO,2011,Health Care,44981,,,,,,
+MO,2011,Industrials,4312,,,,,,
+MO,2011,Information Technology,19753,,,,,,
+MO,2011,Real Estate,2526,,,,,,
+MO,2011,Others,9468,,,,,,
+MO,2012,Energy,4143,Direct tax,100315,Total Returns filed,172956,Total Dollar Amount,8636234.48
+MO,2012,Financials,3672,Indirect tax,72641,Filed by WK Product,86478,Dollar Amount by product ,1440252.24
+MO,2012,Health Care,42102,,,,,,
+MO,2012,Industrials,26097,,,,,,
+MO,2012,Information Technology,42260,,,,,,
+MO,2012,Real Estate,14322,,,,,,
+MO,2012,Others,40360,,,,,,
+MO,2013,Energy,24018,Direct tax,80776,Total Returns filed,152407,Total Dollar Amount,8636234.48
+MO,2013,Financials,38237,Indirect tax,71631,Filed by WK Product,51819,Dollar Amount by product ,1440252.24
+MO,2013,Health Care,25883,,,,,,
+MO,2013,Industrials,8305,,,,,,
+MO,2013,Information Technology,10810,,,,,,
+MO,2013,Real Estate,2790,,,,,,
+MO,2013,Others,42364,,,,,,
+MO,2014,Energy,39440,Direct tax,89304,Total Returns filed,198452,Total Dollar Amount,8636234.48
+MO,2014,Financials,19822,Indirect tax,109148,Filed by WK Product,97242,Dollar Amount by product ,1440252.24
+MO,2014,Health Care,30973,,,,,,
+MO,2014,Industrials,5389,,,,,,
+MO,2014,Information Technology,27205,,,,,,
+MO,2014,Real Estate,38530,,,,,,
+MO,2014,Others,37093,,,,,,
+MO,2015,Energy,21428,Direct tax,76661,Total Returns filed,170357,Total Dollar Amount,8636234.48
+MO,2015,Financials,34654,Indirect tax,93696,Filed by WK Product,32368,Dollar Amount by product ,1440252.24
+MO,2015,Health Care,20535,,,,,,
+MO,2015,Industrials,25807,,,,,,
+MO,2015,Information Technology,36614,,,,,,
+MO,2015,Real Estate,29575,,,,,,
+MO,2015,Others,1744,,,,,,
+MO,2016,Energy,14547,Direct tax,93856,Total Returns filed,191542,Total Dollar Amount,8636234.48
+MO,2016,Financials,19693,Indirect tax,97686,Filed by WK Product,76617,Dollar Amount by product ,1440252.24
+MO,2016,Health Care,37517,,,,,,
+MO,2016,Industrials,38831,,,,,,
+MO,2016,Information Technology,16760,,,,,,
+MO,2016,Real Estate,31390,,,,,,
+MO,2016,Others,32804,,,,,,
+MT,2010,Energy,35686,Direct tax,129076,Total Returns filed,226449,Total Dollar Amount,8636234.48
+MT,2010,Financials,48933,Indirect tax,97373,Filed by WK Product,86051,Dollar Amount by product ,1440252.24
+MT,2010,Health Care,38071,,,,,,
+MT,2010,Industrials,12102,,,,,,
+MT,2010,Information Technology,38701,,,,,,
+MT,2010,Real Estate,30777,,,,,,
+MT,2010,Others,22179,,,,,,
+MT,2011,Energy,23394,Direct tax,77409,Total Returns filed,188801,Total Dollar Amount,8636234.48
+MT,2011,Financials,27257,Indirect tax,111392,Filed by WK Product,32097,Dollar Amount by product ,1440252.24
+MT,2011,Health Care,16907,,,,,,
+MT,2011,Industrials,28591,,,,,,
+MT,2011,Information Technology,34528,,,,,,
+MT,2011,Real Estate,20519,,,,,,
+MT,2011,Others,37605,,,,,,
+MT,2012,Energy,4417,Direct tax,75026,Total Returns filed,136410,Total Dollar Amount,8636234.48
+MT,2012,Financials,46107,Indirect tax,61384,Filed by WK Product,61385,Dollar Amount by product ,1440252.24
+MT,2012,Health Care,6332,,,,,,
+MT,2012,Industrials,27823,,,,,,
+MT,2012,Information Technology,24204,,,,,,
+MT,2012,Real Estate,23744,,,,,,
+MT,2012,Others,3783,,,,,,
+MT,2013,Energy,27088,Direct tax,108614,Total Returns filed,201137,Total Dollar Amount,8636234.48
+MT,2013,Financials,15110,Indirect tax,92523,Filed by WK Product,76433,Dollar Amount by product ,1440252.24
+MT,2013,Health Care,30760,,,,,,
+MT,2013,Industrials,46455,,,,,,
+MT,2013,Information Technology,30176,,,,,,
+MT,2013,Real Estate,45595,,,,,,
+MT,2013,Others,5953,,,,,,
+MT,2014,Energy,23580,Direct tax,98553,Total Returns filed,185949,Total Dollar Amount,8636234.48
+MT,2014,Financials,28481,Indirect tax,87396,Filed by WK Product,52066,Dollar Amount by product ,1440252.24
+MT,2014,Health Care,32963,,,,,,
+MT,2014,Industrials,25530,,,,,,
+MT,2014,Information Technology,20462,,,,,,
+MT,2014,Real Estate,36696,,,,,,
+MT,2014,Others,18237,,,,,,
+MT,2015,Energy,27130,Direct tax,84872,Total Returns filed,184504,Total Dollar Amount,8636234.48
+MT,2015,Financials,30999,Indirect tax,99632,Filed by WK Product,77492,Dollar Amount by product ,1440252.24
+MT,2015,Health Care,21111,,,,,,
+MT,2015,Industrials,21185,,,,,,
+MT,2015,Information Technology,34242,,,,,,
+MT,2015,Real Estate,41234,,,,,,
+MT,2015,Others,8603,,,,,,
+MT,2016,Energy,22227,Direct tax,84219,Total Returns filed,179188,Total Dollar Amount,8636234.48
+MT,2016,Financials,12152,Indirect tax,94969,Filed by WK Product,43006,Dollar Amount by product ,1440252.24
+MT,2016,Health Care,18688,,,,,,
+MT,2016,Industrials,42749,,,,,,
+MT,2016,Information Technology,21705,,,,,,
+MT,2016,Real Estate,34910,,,,,,
+MT,2016,Others,26757,,,,,,
+NE,2010,Energy,25936,Direct tax,113616,Total Returns filed,218491,Total Dollar Amount,8636234.48
+NE,2010,Financials,30723,Indirect tax,104875,Filed by WK Product,41514,Dollar Amount by product ,1440252.24
+NE,2010,Health Care,7278,,,,,,
+NE,2010,Industrials,37406,,,,,,
+NE,2010,Information Technology,29097,,,,,,
+NE,2010,Real Estate,41833,,,,,,
+NE,2010,Others,46218,,,,,,
+NE,2011,Energy,18069,Direct tax,70196,Total Returns filed,171209,Total Dollar Amount,8636234.48
+NE,2011,Financials,35143,Indirect tax,101013,Filed by WK Product,51363,Dollar Amount by product ,1440252.24
+NE,2011,Health Care,20959,,,,,,
+NE,2011,Industrials,29005,,,,,,
+NE,2011,Information Technology,38841,,,,,,
+NE,2011,Real Estate,6227,,,,,,
+NE,2011,Others,22965,,,,,,
+NE,2012,Energy,29968,Direct tax,116243,Total Returns filed,203935,Total Dollar Amount,8636234.48
+NE,2012,Financials,49183,Indirect tax,87692,Filed by WK Product,46906,Dollar Amount by product ,1440252.24
+NE,2012,Health Care,36953,,,,,,
+NE,2012,Industrials,17766,,,,,,
+NE,2012,Information Technology,19116,,,,,,
+NE,2012,Real Estate,46634,,,,,,
+NE,2012,Others,4315,,,,,,
+NE,2013,Energy,34691,Direct tax,103872,Total Returns filed,185484,Total Dollar Amount,8636234.48
+NE,2013,Financials,39027,Indirect tax,81612,Filed by WK Product,92742,Dollar Amount by product ,1440252.24
+NE,2013,Health Care,7302,,,,,,
+NE,2013,Industrials,28743,,,,,,
+NE,2013,Information Technology,26140,,,,,,
+NE,2013,Real Estate,29221,,,,,,
+NE,2013,Others,20360,,,,,,
+NE,2014,Energy,42117,Direct tax,118022,Total Returns filed,196702,Total Dollar Amount,8636234.48
+NE,2014,Financials,17579,Indirect tax,78680,Filed by WK Product,51143,Dollar Amount by product ,1440252.24
+NE,2014,Health Care,6419,,,,,,
+NE,2014,Industrials,38619,,,,,,
+NE,2014,Information Technology,29964,,,,,,
+NE,2014,Real Estate,44451,,,,,,
+NE,2014,Others,17553,,,,,,
+NE,2015,Energy,22383,Direct tax,108923,Total Returns filed,247551,Total Dollar Amount,8636234.48
+NE,2015,Financials,47115,Indirect tax,138628,Filed by WK Product,47035,Dollar Amount by product ,1440252.24
+NE,2015,Health Care,31075,,,,,,
+NE,2015,Industrials,41466,,,,,,
+NE,2015,Information Technology,9796,,,,,,
+NE,2015,Real Estate,46654,,,,,,
+NE,2015,Others,49062,,,,,,
+NE,2016,Energy,29612,Direct tax,89111,Total Returns filed,193719,Total Dollar Amount,8636234.48
+NE,2016,Financials,19375,Indirect tax,104608,Filed by WK Product,83300,Dollar Amount by product ,1440252.24
+NE,2016,Health Care,35542,,,,,,
+NE,2016,Industrials,38711,,,,,,
+NE,2016,Information Technology,1784,,,,,,
+NE,2016,Real Estate,47222,,,,,,
+NE,2016,Others,21473,,,,,,
+NV,2010,Energy,36480,Direct tax,79840,Total Returns filed,185673,Total Dollar Amount,8636234.48
+NV,2010,Financials,35601,Indirect tax,105833,Filed by WK Product,35278,Dollar Amount by product ,1440252.24
+NV,2010,Health Care,27587,,,,,,
+NV,2010,Industrials,34033,,,,,,
+NV,2010,Information Technology,15597,,,,,,
+NV,2010,Real Estate,18284,,,,,,
+NV,2010,Others,18091,,,,,,
+NV,2011,Energy,28176,Direct tax,87599,Total Returns filed,199088,Total Dollar Amount,8636234.48
+NV,2011,Financials,9197,Indirect tax,111489,Filed by WK Product,31855,Dollar Amount by product ,1440252.24
+NV,2011,Health Care,31558,,,,,,
+NV,2011,Industrials,33310,,,,,,
+NV,2011,Information Technology,23656,,,,,,
+NV,2011,Real Estate,36752,,,,,,
+NV,2011,Others,36439,,,,,,
+NV,2012,Energy,48750,Direct tax,115852,Total Returns filed,263300,Total Dollar Amount,8636234.48
+NV,2012,Financials,38242,Indirect tax,147448,Filed by WK Product,118485,Dollar Amount by product ,1440252.24
+NV,2012,Health Care,27133,,,,,,
+NV,2012,Industrials,32218,,,,,,
+NV,2012,Information Technology,40951,,,,,,
+NV,2012,Real Estate,35923,,,,,,
+NV,2012,Others,40083,,,,,,
+NV,2013,Energy,34600,Direct tax,76486,Total Returns filed,162735,Total Dollar Amount,8636234.48
+NV,2013,Financials,29519,Indirect tax,86249,Filed by WK Product,66722,Dollar Amount by product ,1440252.24
+NV,2013,Health Care,22109,,,,,,
+NV,2013,Industrials,9862,,,,,,
+NV,2013,Information Technology,2141,,,,,,
+NV,2013,Real Estate,37642,,,,,,
+NV,2013,Others,26862,,,,,,
+NV,2014,Energy,45865,Direct tax,107396,Total Returns filed,182026,Total Dollar Amount,8636234.48
+NV,2014,Financials,15460,Indirect tax,74630,Filed by WK Product,91013,Dollar Amount by product ,1440252.24
+NV,2014,Health Care,9454,,,,,,
+NV,2014,Industrials,33078,,,,,,
+NV,2014,Information Technology,22048,,,,,,
+NV,2014,Real Estate,49125,,,,,,
+NV,2014,Others,6996,,,,,,
+NV,2015,Energy,20498,Direct tax,66555,Total Returns filed,138656,Total Dollar Amount,8636234.48
+NV,2015,Financials,15920,Indirect tax,72101,Filed by WK Product,31891,Dollar Amount by product ,1440252.24
+NV,2015,Health Care,1923,,,,,,
+NV,2015,Industrials,41516,,,,,,
+NV,2015,Information Technology,24764,,,,,,
+NV,2015,Real Estate,6977,,,,,,
+NV,2015,Others,27058,,,,,,
+NV,2016,Energy,13653,Direct tax,69010,Total Returns filed,168315,Total Dollar Amount,8636234.48
+NV,2016,Financials,4160,Indirect tax,99305,Filed by WK Product,65643,Dollar Amount by product ,1440252.24
+NV,2016,Health Care,9532,,,,,,
+NV,2016,Industrials,2983,,,,,,
+NV,2016,Information Technology,42547,,,,,,
+NV,2016,Real Estate,47536,,,,,,
+NV,2016,Others,47904,,,,,,
+NH,2010,Energy,7917,Direct tax,71993,Total Returns filed,119988,Total Dollar Amount,8636234.48
+NH,2010,Financials,29353,Indirect tax,47995,Filed by WK Product,29997,Dollar Amount by product ,1440252.24
+NH,2010,Health Care,12135,,,,,,
+NH,2010,Industrials,4688,,,,,,
+NH,2010,Information Technology,39567,,,,,,
+NH,2010,Real Estate,14799,,,,,,
+NH,2010,Others,11529,,,,,,
+NH,2011,Energy,31675,Direct tax,85773,Total Returns filed,164948,Total Dollar Amount,8636234.48
+NH,2011,Financials,38201,Indirect tax,79175,Filed by WK Product,70928,Dollar Amount by product ,1440252.24
+NH,2011,Health Care,8402,,,,,,
+NH,2011,Industrials,16017,,,,,,
+NH,2011,Information Technology,15984,,,,,,
+NH,2011,Real Estate,18881,,,,,,
+NH,2011,Others,35788,,,,,,
+NH,2012,Energy,1284,Direct tax,65441,Total Returns filed,163602,Total Dollar Amount,8636234.48
+NH,2012,Financials,19007,Indirect tax,98161,Filed by WK Product,29449,Dollar Amount by product ,1440252.24
+NH,2012,Health Care,17331,,,,,,
+NH,2012,Industrials,5332,,,,,,
+NH,2012,Information Technology,45327,,,,,,
+NH,2012,Real Estate,38333,,,,,,
+NH,2012,Others,36988,,,,,,
+NH,2013,Energy,45306,Direct tax,79427,Total Returns filed,189110,Total Dollar Amount,8636234.48
+NH,2013,Financials,15702,Indirect tax,109683,Filed by WK Product,32149,Dollar Amount by product ,1440252.24
+NH,2013,Health Care,29724,,,,,,
+NH,2013,Industrials,22920,,,,,,
+NH,2013,Information Technology,20835,,,,,,
+NH,2013,Real Estate,24214,,,,,,
+NH,2013,Others,30409,,,,,,
+NH,2014,Energy,10100,Direct tax,56046,Total Returns filed,112091,Total Dollar Amount,8636234.48
+NH,2014,Financials,5241,Indirect tax,56045,Filed by WK Product,22419,Dollar Amount by product ,1440252.24
+NH,2014,Health Care,27105,,,,,,
+NH,2014,Industrials,6116,,,,,,
+NH,2014,Information Technology,3252,,,,,,
+NH,2014,Real Estate,18171,,,,,,
+NH,2014,Others,42106,,,,,,
+NH,2015,Energy,25805,Direct tax,76857,Total Returns filed,160118,Total Dollar Amount,8636234.48
+NH,2015,Financials,40267,Indirect tax,83261,Filed by WK Product,30423,Dollar Amount by product ,1440252.24
+NH,2015,Health Care,24194,,,,,,
+NH,2015,Industrials,7710,,,,,,
+NH,2015,Information Technology,41461,,,,,,
+NH,2015,Real Estate,18015,,,,,,
+NH,2015,Others,2666,,,,,,
+NH,2016,Energy,45207,Direct tax,93833,Total Returns filed,180447,Total Dollar Amount,8636234.48
+NH,2016,Financials,30479,Indirect tax,86614,Filed by WK Product,83006,Dollar Amount by product ,1440252.24
+NH,2016,Health Care,2842,,,,,,
+NH,2016,Industrials,48872,,,,,,
+NH,2016,Information Technology,26028,,,,,,
+NH,2016,Real Estate,18316,,,,,,
+NH,2016,Others,8703,,,,,,
+NJ,2010,Energy,3950,Direct tax,72212,Total Returns filed,122392,Total Dollar Amount,8636234.48
+NJ,2010,Financials,6072,Indirect tax,50180,Filed by WK Product,44062,Dollar Amount by product ,1440252.24
+NJ,2010,Health Care,18615,,,,,,
+NJ,2010,Industrials,11194,,,,,,
+NJ,2010,Information Technology,47288,,,,,,
+NJ,2010,Real Estate,24110,,,,,,
+NJ,2010,Others,11163,,,,,,
+NJ,2011,Energy,44677,Direct tax,100927,Total Returns filed,219405,Total Dollar Amount,8636234.48
+NJ,2011,Financials,36006,Indirect tax,118478,Filed by WK Product,35105,Dollar Amount by product ,1440252.24
+NJ,2011,Health Care,23209,,,,,,
+NJ,2011,Industrials,11211,,,,,,
+NJ,2011,Information Technology,49236,,,,,,
+NJ,2011,Real Estate,45996,,,,,,
+NJ,2011,Others,9070,,,,,,
+NJ,2012,Energy,15014,Direct tax,95386,Total Returns filed,207360,Total Dollar Amount,8636234.48
+NJ,2012,Financials,20703,Indirect tax,111974,Filed by WK Product,58061,Dollar Amount by product ,1440252.24
+NJ,2012,Health Care,35743,,,,,,
+NJ,2012,Industrials,34683,,,,,,
+NJ,2012,Information Technology,35979,,,,,,
+NJ,2012,Real Estate,21688,,,,,,
+NJ,2012,Others,43550,,,,,,
+NJ,2013,Energy,14757,Direct tax,67465,Total Returns filed,140552,Total Dollar Amount,8636234.48
+NJ,2013,Financials,24939,Indirect tax,73087,Filed by WK Product,53410,Dollar Amount by product ,1440252.24
+NJ,2013,Health Care,44653,,,,,,
+NJ,2013,Industrials,5753,,,,,,
+NJ,2013,Information Technology,27634,,,,,,
+NJ,2013,Real Estate,6271,,,,,,
+NJ,2013,Others,16545,,,,,,
+NJ,2014,Energy,6670,Direct tax,100654,Total Returns filed,228757,Total Dollar Amount,8636234.48
+NJ,2014,Financials,42204,Indirect tax,128103,Filed by WK Product,102941,Dollar Amount by product ,1440252.24
+NJ,2014,Health Care,7728,,,,,,
+NJ,2014,Industrials,35781,,,,,,
+NJ,2014,Information Technology,43276,,,,,,
+NJ,2014,Real Estate,44344,,,,,,
+NJ,2014,Others,48754,,,,,,
+NJ,2015,Energy,46636,Direct tax,94647,Total Returns filed,169012,Total Dollar Amount,8636234.48
+NJ,2015,Financials,13912,Indirect tax,74365,Filed by WK Product,77746,Dollar Amount by product ,1440252.24
+NJ,2015,Health Care,12873,,,,,,
+NJ,2015,Industrials,21876,,,,,,
+NJ,2015,Information Technology,36204,,,,,,
+NJ,2015,Real Estate,28938,,,,,,
+NJ,2015,Others,8573,,,,,,
+NJ,2016,Energy,8488,Direct tax,71841,Total Returns filed,171050,Total Dollar Amount,8636234.48
+NJ,2016,Financials,43774,Indirect tax,99209,Filed by WK Product,64999,Dollar Amount by product ,1440252.24
+NJ,2016,Health Care,25539,,,,,,
+NJ,2016,Industrials,40650,,,,,,
+NJ,2016,Information Technology,5613,,,,,,
+NJ,2016,Real Estate,42919,,,,,,
+NJ,2016,Others,4067,,,,,,
+NM,2010,Energy,37481,Direct tax,90285,Total Returns filed,164154,Total Dollar Amount,8636234.48
+NM,2010,Financials,31268,Indirect tax,73869,Filed by WK Product,78794,Dollar Amount by product ,1440252.24
+NM,2010,Health Care,43132,,,,,,
+NM,2010,Industrials,21122,,,,,,
+NM,2010,Information Technology,7711,,,,,,
+NM,2010,Real Estate,1288,,,,,,
+NM,2010,Others,22152,,,,,,
+NM,2011,Energy,7551,Direct tax,81020,Total Returns filed,144678,Total Dollar Amount,8636234.48
+NM,2011,Financials,3818,Indirect tax,63658,Filed by WK Product,28936,Dollar Amount by product ,1440252.24
+NM,2011,Health Care,21765,,,,,,
+NM,2011,Industrials,19158,,,,,,
+NM,2011,Information Technology,40292,,,,,,
+NM,2011,Real Estate,25104,,,,,,
+NM,2011,Others,26990,,,,,,
+NM,2012,Energy,26444,Direct tax,65642,Total Returns filed,160101,Total Dollar Amount,8636234.48
+NM,2012,Financials,15011,Indirect tax,94459,Filed by WK Product,28819,Dollar Amount by product ,1440252.24
+NM,2012,Health Care,5249,,,,,,
+NM,2012,Industrials,37952,,,,,,
+NM,2012,Information Technology,27806,,,,,,
+NM,2012,Real Estate,39005,,,,,,
+NM,2012,Others,8634,,,,,,
+NM,2013,Energy,2796,Direct tax,72438,Total Returns filed,147832,Total Dollar Amount,8636234.48
+NM,2013,Financials,21694,Indirect tax,75394,Filed by WK Product,28089,Dollar Amount by product ,1440252.24
+NM,2013,Health Care,45113,,,,,,
+NM,2013,Industrials,15816,,,,,,
+NM,2013,Information Technology,9755,,,,,,
+NM,2013,Real Estate,27993,,,,,,
+NM,2013,Others,24665,,,,,,
+NM,2014,Energy,9097,Direct tax,88460,Total Returns filed,166905,Total Dollar Amount,8636234.48
+NM,2014,Financials,39260,Indirect tax,78445,Filed by WK Product,43396,Dollar Amount by product ,1440252.24
+NM,2014,Health Care,35067,,,,,,
+NM,2014,Industrials,19321,,,,,,
+NM,2014,Information Technology,22172,,,,,,
+NM,2014,Real Estate,29075,,,,,,
+NM,2014,Others,12913,,,,,,
+NM,2015,Energy,15537,Direct tax,90511,Total Returns filed,201134,Total Dollar Amount,8636234.48
+NM,2015,Financials,49338,Indirect tax,110623,Filed by WK Product,66375,Dollar Amount by product ,1440252.24
+NM,2015,Health Care,40147,,,,,,
+NM,2015,Industrials,3566,,,,,,
+NM,2015,Information Technology,3508,,,,,,
+NM,2015,Real Estate,39124,,,,,,
+NM,2015,Others,49914,,,,,,
+NM,2016,Energy,3321,Direct tax,77706,Total Returns filed,168925,Total Dollar Amount,8636234.48
+NM,2016,Financials,32143,Indirect tax,91219,Filed by WK Product,65881,Dollar Amount by product ,1440252.24
+NM,2016,Health Care,17967,,,,,,
+NM,2016,Industrials,20778,,,,,,
+NM,2016,Information Technology,30489,,,,,,
+NM,2016,Real Estate,28281,,,,,,
+NM,2016,Others,35946,,,,,,
+NY,2010,Energy,12461,Direct tax,92842,Total Returns filed,175172,Total Dollar Amount,8636234.48
+NY,2010,Financials,16189,Indirect tax,82330,Filed by WK Product,52552,Dollar Amount by product ,1440252.24
+NY,2010,Health Care,29812,,,,,,
+NY,2010,Industrials,13266,,,,,,
+NY,2010,Information Technology,40309,,,,,,
+NY,2010,Real Estate,29718,,,,,,
+NY,2010,Others,33417,,,,,,
+NY,2011,Energy,29060,Direct tax,109299,Total Returns filed,248406,Total Dollar Amount,8636234.48
+NY,2011,Financials,43598,Indirect tax,139107,Filed by WK Product,52166,Dollar Amount by product ,1440252.24
+NY,2011,Health Care,45456,,,,,,
+NY,2011,Industrials,12349,,,,,,
+NY,2011,Information Technology,28978,,,,,,
+NY,2011,Real Estate,45973,,,,,,
+NY,2011,Others,42992,,,,,,
+NY,2012,Energy,46086,Direct tax,112339,Total Returns filed,208034,Total Dollar Amount,8636234.48
+NY,2012,Financials,15514,Indirect tax,95695,Filed by WK Product,76973,Dollar Amount by product ,1440252.24
+NY,2012,Health Care,18224,,,,,,
+NY,2012,Industrials,39423,,,,,,
+NY,2012,Information Technology,29825,,,,,,
+NY,2012,Real Estate,10844,,,,,,
+NY,2012,Others,48118,,,,,,
+NY,2013,Energy,31850,Direct tax,86183,Total Returns filed,195869,Total Dollar Amount,8636234.48
+NY,2013,Financials,33012,Indirect tax,109686,Filed by WK Product,74431,Dollar Amount by product ,1440252.24
+NY,2013,Health Care,38783,,,,,,
+NY,2013,Industrials,32414,,,,,,
+NY,2013,Information Technology,5972,,,,,,
+NY,2013,Real Estate,18568,,,,,,
+NY,2013,Others,35270,,,,,,
+NY,2014,Energy,47740,Direct tax,98139,Total Returns filed,228229,Total Dollar Amount,8636234.48
+NY,2014,Financials,45588,Indirect tax,130090,Filed by WK Product,102704,Dollar Amount by product ,1440252.24
+NY,2014,Health Care,48501,,,,,,
+NY,2014,Industrials,19257,,,,,,
+NY,2014,Information Technology,34751,,,,,,
+NY,2014,Real Estate,8169,,,,,,
+NY,2014,Others,24223,,,,,,
+NY,2015,Energy,8753,Direct tax,68920,Total Returns filed,120911,Total Dollar Amount,8636234.48
+NY,2015,Financials,21657,Indirect tax,51991,Filed by WK Product,39901,Dollar Amount by product ,1440252.24
+NY,2015,Health Care,20096,,,,,,
+NY,2015,Industrials,44134,,,,,,
+NY,2015,Information Technology,7870,,,,,,
+NY,2015,Real Estate,16608,,,,,,
+NY,2015,Others,1793,,,,,,
+NY,2016,Energy,39826,Direct tax,85886,Total Returns filed,195194,Total Dollar Amount,8636234.48
+NY,2016,Financials,24973,Indirect tax,109308,Filed by WK Product,91742,Dollar Amount by product ,1440252.24
+NY,2016,Health Care,46543,,,,,,
+NY,2016,Industrials,17344,,,,,,
+NY,2016,Information Technology,18411,,,,,,
+NY,2016,Real Estate,19332,,,,,,
+NY,2016,Others,28765,,,,,,
+NC,2010,Energy,15169,Direct tax,68572,Total Returns filed,171429,Total Dollar Amount,8636234.48
+NC,2010,Financials,21469,Indirect tax,102857,Filed by WK Product,29143,Dollar Amount by product ,1440252.24
+NC,2010,Health Care,29693,,,,,,
+NC,2010,Industrials,46089,,,,,,
+NC,2010,Information Technology,7256,,,,,,
+NC,2010,Real Estate,24517,,,,,,
+NC,2010,Others,27236,,,,,,
+NC,2011,Energy,19109,Direct tax,105155,Total Returns filed,228597,Total Dollar Amount,8636234.48
+NC,2011,Financials,39661,Indirect tax,123442,Filed by WK Product,36576,Dollar Amount by product ,1440252.24
+NC,2011,Health Care,17430,,,,,,
+NC,2011,Industrials,48222,,,,,,
+NC,2011,Information Technology,25184,,,,,,
+NC,2011,Real Estate,41183,,,,,,
+NC,2011,Others,37808,,,,,,
+NC,2012,Energy,47610,Direct tax,107830,Total Returns filed,211430,Total Dollar Amount,8636234.48
+NC,2012,Financials,41513,Indirect tax,103600,Filed by WK Product,80344,Dollar Amount by product ,1440252.24
+NC,2012,Health Care,5889,,,,,,
+NC,2012,Industrials,10677,,,,,,
+NC,2012,Information Technology,30351,,,,,,
+NC,2012,Real Estate,33251,,,,,,
+NC,2012,Others,42139,,,,,,
+NC,2013,Energy,29980,Direct tax,86021,Total Returns filed,215052,Total Dollar Amount,8636234.48
+NC,2013,Financials,48166,Indirect tax,129031,Filed by WK Product,51613,Dollar Amount by product ,1440252.24
+NC,2013,Health Care,37581,,,,,,
+NC,2013,Industrials,8189,,,,,,
+NC,2013,Information Technology,46717,,,,,,
+NC,2013,Real Estate,15675,,,,,,
+NC,2013,Others,28744,,,,,,
+NC,2014,Energy,48189,Direct tax,84352,Total Returns filed,147985,Total Dollar Amount,8636234.48
+NC,2014,Financials,34781,Indirect tax,63633,Filed by WK Product,44396,Dollar Amount by product ,1440252.24
+NC,2014,Health Care,1717,,,,,,
+NC,2014,Industrials,30947,,,,,,
+NC,2014,Information Technology,2492,,,,,,
+NC,2014,Real Estate,24859,,,,,,
+NC,2014,Others,5000,,,,,,
+NC,2015,Energy,39074,Direct tax,99600,Total Returns filed,181090,Total Dollar Amount,8636234.48
+NC,2015,Financials,40949,Indirect tax,81490,Filed by WK Product,68815,Dollar Amount by product ,1440252.24
+NC,2015,Health Care,1214,,,,,,
+NC,2015,Industrials,13165,,,,,,
+NC,2015,Information Technology,20160,,,,,,
+NC,2015,Real Estate,43626,,,,,,
+NC,2015,Others,22902,,,,,,
+NC,2016,Energy,35653,Direct tax,78355,Total Returns filed,191108,Total Dollar Amount,8636234.48
+NC,2016,Financials,42189,Indirect tax,112753,Filed by WK Product,74533,Dollar Amount by product ,1440252.24
+NC,2016,Health Care,35542,,,,,,
+NC,2016,Industrials,39476,,,,,,
+NC,2016,Information Technology,19875,,,,,,
+NC,2016,Real Estate,12240,,,,,,
+NC,2016,Others,6133,,,,,,
+ND,2010,Energy,38917,Direct tax,116518,Total Returns filed,237790,Total Dollar Amount,8636234.48
+ND,2010,Financials,28819,Indirect tax,121272,Filed by WK Product,54692,Dollar Amount by product ,1440252.24
+ND,2010,Health Care,35537,,,,,,
+ND,2010,Industrials,29527,,,,,,
+ND,2010,Information Technology,49515,,,,,,
+ND,2010,Real Estate,35957,,,,,,
+ND,2010,Others,19518,,,,,,
+ND,2011,Energy,31225,Direct tax,80114,Total Returns filed,170455,Total Dollar Amount,8636234.48
+ND,2011,Financials,32825,Indirect tax,90341,Filed by WK Product,46023,Dollar Amount by product ,1440252.24
+ND,2011,Health Care,20601,,,,,,
+ND,2011,Industrials,22580,,,,,,
+ND,2011,Information Technology,27626,,,,,,
+ND,2011,Real Estate,12628,,,,,,
+ND,2011,Others,22970,,,,,,
+ND,2012,Energy,28363,Direct tax,67530,Total Returns filed,112549,Total Dollar Amount,8636234.48
+ND,2012,Financials,35330,Indirect tax,45019,Filed by WK Product,20259,Dollar Amount by product ,1440252.24
+ND,2012,Health Care,25008,,,,,,
+ND,2012,Industrials,1684,,,,,,
+ND,2012,Information Technology,9453,,,,,,
+ND,2012,Real Estate,2979,,,,,,
+ND,2012,Others,9732,,,,,,
+ND,2013,Energy,4517,Direct tax,104325,Total Returns filed,196838,Total Dollar Amount,8636234.48
+ND,2013,Financials,35329,Indirect tax,92513,Filed by WK Product,92514,Dollar Amount by product ,1440252.24
+ND,2013,Health Care,28010,,,,,,
+ND,2013,Industrials,39929,,,,,,
+ND,2013,Information Technology,29520,,,,,,
+ND,2013,Real Estate,9877,,,,,,
+ND,2013,Others,49656,,,,,,
+ND,2014,Energy,35662,Direct tax,57319,Total Returns filed,104215,Total Dollar Amount,8636234.48
+ND,2014,Financials,3347,Indirect tax,46896,Filed by WK Product,16675,Dollar Amount by product ,1440252.24
+ND,2014,Health Care,2324,,,,,,
+ND,2014,Industrials,13821,,,,,,
+ND,2014,Information Technology,6810,,,,,,
+ND,2014,Real Estate,5657,,,,,,
+ND,2014,Others,36594,,,,,,
+ND,2015,Energy,20827,Direct tax,76545,Total Returns filed,170100,Total Dollar Amount,8636234.48
+ND,2015,Financials,29763,Indirect tax,93555,Filed by WK Product,44226,Dollar Amount by product ,1440252.24
+ND,2015,Health Care,23346,,,,,,
+ND,2015,Industrials,25033,,,,,,
+ND,2015,Information Technology,2199,,,,,,
+ND,2015,Real Estate,29234,,,,,,
+ND,2015,Others,39698,,,,,,
+ND,2016,Energy,29821,Direct tax,104429,Total Returns filed,186480,Total Dollar Amount,8636234.48
+ND,2016,Financials,25080,Indirect tax,82051,Filed by WK Product,76457,Dollar Amount by product ,1440252.24
+ND,2016,Health Care,35753,,,,,,
+ND,2016,Industrials,35898,,,,,,
+ND,2016,Information Technology,9502,,,,,,
+ND,2016,Real Estate,25572,,,,,,
+ND,2016,Others,24854,,,,,,
+OH,2010,Energy,39303,Direct tax,67742,Total Returns filed,169355,Total Dollar Amount,8636234.48
+OH,2010,Financials,30713,Indirect tax,101613,Filed by WK Product,30484,Dollar Amount by product ,1440252.24
+OH,2010,Health Care,13991,,,,,,
+OH,2010,Industrials,32419,,,,,,
+OH,2010,Information Technology,29150,,,,,,
+OH,2010,Real Estate,9960,,,,,,
+OH,2010,Others,13819,,,,,,
+OH,2011,Energy,29209,Direct tax,89085,Total Returns filed,181806,Total Dollar Amount,8636234.48
+OH,2011,Financials,42012,Indirect tax,92721,Filed by WK Product,38180,Dollar Amount by product ,1440252.24
+OH,2011,Health Care,40329,,,,,,
+OH,2011,Industrials,8664,,,,,,
+OH,2011,Information Technology,31767,,,,,,
+OH,2011,Real Estate,8612,,,,,,
+OH,2011,Others,21213,,,,,,
+OH,2012,Energy,12896,Direct tax,67182,Total Returns filed,149293,Total Dollar Amount,8636234.48
+OH,2012,Financials,15345,Indirect tax,82111,Filed by WK Product,46281,Dollar Amount by product ,1440252.24
+OH,2012,Health Care,38242,,,,,,
+OH,2012,Industrials,20997,,,,,,
+OH,2012,Information Technology,39393,,,,,,
+OH,2012,Real Estate,10575,,,,,,
+OH,2012,Others,11845,,,,,,
+OH,2013,Energy,31909,Direct tax,96861,Total Returns filed,167001,Total Dollar Amount,8636234.48
+OH,2013,Financials,6695,Indirect tax,70140,Filed by WK Product,38411,Dollar Amount by product ,1440252.24
+OH,2013,Health Care,24702,,,,,,
+OH,2013,Industrials,32483,,,,,,
+OH,2013,Information Technology,42371,,,,,,
+OH,2013,Real Estate,2961,,,,,,
+OH,2013,Others,25880,,,,,,
+OH,2014,Energy,49470,Direct tax,98726,Total Returns filed,173203,Total Dollar Amount,8636234.48
+OH,2014,Financials,2383,Indirect tax,74477,Filed by WK Product,41569,Dollar Amount by product ,1440252.24
+OH,2014,Health Care,31217,,,,,,
+OH,2014,Industrials,27725,,,,,,
+OH,2014,Information Technology,39318,,,,,,
+OH,2014,Real Estate,8886,,,,,,
+OH,2014,Others,14204,,,,,,
+OH,2015,Energy,34194,Direct tax,77578,Total Returns filed,141050,Total Dollar Amount,8636234.48
+OH,2015,Financials,29952,Indirect tax,63472,Filed by WK Product,66294,Dollar Amount by product ,1440252.24
+OH,2015,Health Care,25484,,,,,,
+OH,2015,Industrials,2422,,,,,,
+OH,2015,Information Technology,10804,,,,,,
+OH,2015,Real Estate,11666,,,,,,
+OH,2015,Others,26528,,,,,,
+OH,2016,Energy,11868,Direct tax,70205,Total Returns filed,175512,Total Dollar Amount,8636234.48
+OH,2016,Financials,9451,Indirect tax,105307,Filed by WK Product,75471,Dollar Amount by product ,1440252.24
+OH,2016,Health Care,32729,,,,,,
+OH,2016,Industrials,44232,,,,,,
+OH,2016,Information Technology,45966,,,,,,
+OH,2016,Real Estate,24362,,,,,,
+OH,2016,Others,6904,,,,,,
+OK,2010,Energy,11114,Direct tax,71477,Total Returns filed,152078,Total Dollar Amount,8636234.48
+OK,2010,Financials,26823,Indirect tax,80601,Filed by WK Product,38020,Dollar Amount by product ,1440252.24
+OK,2010,Health Care,15100,,,,,,
+OK,2010,Industrials,18249,,,,,,
+OK,2010,Information Technology,47811,,,,,,
+OK,2010,Real Estate,28889,,,,,,
+OK,2010,Others,4092,,,,,,
+OK,2011,Energy,24881,Direct tax,95099,Total Returns filed,198122,Total Dollar Amount,8636234.48
+OK,2011,Financials,37846,Indirect tax,103023,Filed by WK Product,79249,Dollar Amount by product ,1440252.24
+OK,2011,Health Care,11736,,,,,,
+OK,2011,Industrials,23607,,,,,,
+OK,2011,Information Technology,37578,,,,,,
+OK,2011,Real Estate,30772,,,,,,
+OK,2011,Others,31702,,,,,,
+OK,2012,Energy,1733,Direct tax,75723,Total Returns filed,161111,Total Dollar Amount,8636234.48
+OK,2012,Financials,1507,Indirect tax,85388,Filed by WK Product,32223,Dollar Amount by product ,1440252.24
+OK,2012,Health Care,45067,,,,,,
+OK,2012,Industrials,49789,,,,,,
+OK,2012,Information Technology,38917,,,,,,
+OK,2012,Real Estate,6089,,,,,,
+OK,2012,Others,18009,,,,,,
+OK,2013,Energy,48264,Direct tax,94441,Total Returns filed,196752,Total Dollar Amount,8636234.48
+OK,2013,Financials,41424,Indirect tax,102311,Filed by WK Product,55091,Dollar Amount by product ,1440252.24
+OK,2013,Health Care,12565,,,,,,
+OK,2013,Industrials,24209,,,,,,
+OK,2013,Information Technology,27534,,,,,,
+OK,2013,Real Estate,26325,,,,,,
+OK,2013,Others,16431,,,,,,
+OK,2014,Energy,16027,Direct tax,110384,Total Returns filed,245297,Total Dollar Amount,8636234.48
+OK,2014,Financials,46199,Indirect tax,134913,Filed by WK Product,110384,Dollar Amount by product ,1440252.24
+OK,2014,Health Care,48025,,,,,,
+OK,2014,Industrials,38292,,,,,,
+OK,2014,Information Technology,28647,,,,,,
+OK,2014,Real Estate,25818,,,,,,
+OK,2014,Others,42289,,,,,,
+OK,2015,Energy,24587,Direct tax,88102,Total Returns filed,166230,Total Dollar Amount,8636234.48
+OK,2015,Financials,16042,Indirect tax,78128,Filed by WK Product,43220,Dollar Amount by product ,1440252.24
+OK,2015,Health Care,37330,,,,,,
+OK,2015,Industrials,8318,,,,,,
+OK,2015,Information Technology,48957,,,,,,
+OK,2015,Real Estate,18451,,,,,,
+OK,2015,Others,12545,,,,,,
+OK,2016,Energy,8934,Direct tax,126963,Total Returns filed,226718,Total Dollar Amount,8636234.48
+OK,2016,Financials,5560,Indirect tax,99755,Filed by WK Product,61214,Dollar Amount by product ,1440252.24
+OK,2016,Health Care,39217,,,,,,
+OK,2016,Industrials,47143,,,,,,
+OK,2016,Information Technology,33213,,,,,,
+OK,2016,Real Estate,42742,,,,,,
+OK,2016,Others,49909,,,,,,
+OR,2010,Energy,34186,Direct tax,109897,Total Returns filed,207351,Total Dollar Amount,8636234.48
+OR,2010,Financials,20268,Indirect tax,97454,Filed by WK Product,99529,Dollar Amount by product ,1440252.24
+OR,2010,Health Care,36698,,,,,,
+OR,2010,Industrials,31360,,,,,,
+OR,2010,Information Technology,49937,,,,,,
+OR,2010,Real Estate,28728,,,,,,
+OR,2010,Others,6174,,,,,,
+OR,2011,Energy,39418,Direct tax,62441,Total Returns filed,148667,Total Dollar Amount,8636234.48
+OR,2011,Financials,27391,Indirect tax,86226,Filed by WK Product,52034,Dollar Amount by product ,1440252.24
+OR,2011,Health Care,10264,,,,,,
+OR,2011,Industrials,18762,,,,,,
+OR,2011,Information Technology,3515,,,,,,
+OR,2011,Real Estate,40317,,,,,,
+OR,2011,Others,9000,,,,,,
+OR,2012,Energy,45706,Direct tax,85504,Total Returns filed,144921,Total Dollar Amount,8636234.48
+OR,2012,Financials,9661,Indirect tax,59417,Filed by WK Product,65215,Dollar Amount by product ,1440252.24
+OR,2012,Health Care,30634,,,,,,
+OR,2012,Industrials,9886,,,,,,
+OR,2012,Information Technology,23433,,,,,,
+OR,2012,Real Estate,3622,,,,,,
+OR,2012,Others,21979,,,,,,
+OR,2013,Energy,18231,Direct tax,90409,Total Returns filed,161444,Total Dollar Amount,8636234.48
+OR,2013,Financials,41194,Indirect tax,71035,Filed by WK Product,69421,Dollar Amount by product ,1440252.24
+OR,2013,Health Care,2520,,,,,,
+OR,2013,Industrials,29011,,,,,,
+OR,2013,Information Technology,5307,,,,,,
+OR,2013,Real Estate,38609,,,,,,
+OR,2013,Others,26572,,,,,,
+OR,2014,Energy,4007,Direct tax,56783,Total Returns filed,105152,Total Dollar Amount,8636234.48
+OR,2014,Financials,48251,Indirect tax,48369,Filed by WK Product,15773,Dollar Amount by product ,1440252.24
+OR,2014,Health Care,12938,,,,,,
+OR,2014,Industrials,4787,,,,,,
+OR,2014,Information Technology,17699,,,,,,
+OR,2014,Real Estate,12702,,,,,,
+OR,2014,Others,4768,,,,,,
+OR,2015,Energy,33761,Direct tax,108536,Total Returns filed,190413,Total Dollar Amount,8636234.48
+OR,2015,Financials,5021,Indirect tax,81877,Filed by WK Product,83782,Dollar Amount by product ,1440252.24
+OR,2015,Health Care,40784,,,,,,
+OR,2015,Industrials,20956,,,,,,
+OR,2015,Information Technology,28784,,,,,,
+OR,2015,Real Estate,48165,,,,,,
+OR,2015,Others,12942,,,,,,
+OR,2016,Energy,1019,Direct tax,81021,Total Returns filed,139690,Total Dollar Amount,8636234.48
+OR,2016,Financials,11985,Indirect tax,58669,Filed by WK Product,25145,Dollar Amount by product ,1440252.24
+OR,2016,Health Care,29426,,,,,,
+OR,2016,Industrials,45374,,,,,,
+OR,2016,Information Technology,19829,,,,,,
+OR,2016,Real Estate,20598,,,,,,
+OR,2016,Others,11459,,,,,,
+PA,2010,Energy,18708,Direct tax,77602,Total Returns filed,146417,Total Dollar Amount,8636234.48
+PA,2010,Financials,13543,Indirect tax,68815,Filed by WK Product,68816,Dollar Amount by product ,1440252.24
+PA,2010,Health Care,28174,,,,,,
+PA,2010,Industrials,22019,,,,,,
+PA,2010,Information Technology,20989,,,,,,
+PA,2010,Real Estate,25486,,,,,,
+PA,2010,Others,17498,,,,,,
+PA,2011,Energy,3873,Direct tax,78420,Total Returns filed,182372,Total Dollar Amount,8636234.48
+PA,2011,Financials,43591,Indirect tax,103952,Filed by WK Product,74773,Dollar Amount by product ,1440252.24
+PA,2011,Health Care,17820,,,,,,
+PA,2011,Industrials,23232,,,,,,
+PA,2011,Information Technology,15730,,,,,,
+PA,2011,Real Estate,48770,,,,,,
+PA,2011,Others,29356,,,,,,
+PA,2012,Energy,42455,Direct tax,72738,Total Returns filed,173185,Total Dollar Amount,8636234.48
+PA,2012,Financials,15827,Indirect tax,100447,Filed by WK Product,31174,Dollar Amount by product ,1440252.24
+PA,2012,Health Care,49822,,,,,,
+PA,2012,Industrials,2520,,,,,,
+PA,2012,Information Technology,46589,,,,,,
+PA,2012,Real Estate,9977,,,,,,
+PA,2012,Others,5995,,,,,,
+PA,2013,Energy,39730,Direct tax,85225,Total Returns filed,149517,Total Dollar Amount,8636234.48
+PA,2013,Financials,18751,Indirect tax,64292,Filed by WK Product,62798,Dollar Amount by product ,1440252.24
+PA,2013,Health Care,43222,,,,,,
+PA,2013,Industrials,20968,,,,,,
+PA,2013,Information Technology,5036,,,,,,
+PA,2013,Real Estate,5483,,,,,,
+PA,2013,Others,16327,,,,,,
+PA,2014,Energy,7763,Direct tax,82425,Total Returns filed,175371,Total Dollar Amount,8636234.48
+PA,2014,Financials,35841,Indirect tax,92946,Filed by WK Product,52612,Dollar Amount by product ,1440252.24
+PA,2014,Health Care,13463,,,,,,
+PA,2014,Industrials,42862,,,,,,
+PA,2014,Information Technology,31761,,,,,,
+PA,2014,Real Estate,29921,,,,,,
+PA,2014,Others,13760,,,,,,
+PA,2015,Energy,33656,Direct tax,105184,Total Returns filed,219133,Total Dollar Amount,8636234.48
+PA,2015,Financials,46223,Indirect tax,113949,Filed by WK Product,54784,Dollar Amount by product ,1440252.24
+PA,2015,Health Care,20875,,,,,,
+PA,2015,Industrials,9514,,,,,,
+PA,2015,Information Technology,28693,,,,,,
+PA,2015,Real Estate,47765,,,,,,
+PA,2015,Others,32407,,,,,,
+PA,2016,Energy,21301,Direct tax,74792,Total Returns filed,141116,Total Dollar Amount,8636234.48
+PA,2016,Financials,20201,Indirect tax,66324,Filed by WK Product,57858,Dollar Amount by product ,1440252.24
+PA,2016,Health Care,8359,,,,,,
+PA,2016,Industrials,3768,,,,,,
+PA,2016,Information Technology,30282,,,,,,
+PA,2016,Real Estate,48731,,,,,,
+PA,2016,Others,8474,,,,,,
+RI,2010,Energy,16024,Direct tax,87144,Total Returns filed,170869,Total Dollar Amount,8636234.48
+RI,2010,Financials,26315,Indirect tax,83725,Filed by WK Product,37592,Dollar Amount by product ,1440252.24
+RI,2010,Health Care,26616,,,,,,
+RI,2010,Industrials,39751,,,,,,
+RI,2010,Information Technology,11412,,,,,,
+RI,2010,Real Estate,15436,,,,,,
+RI,2010,Others,35315,,,,,,
+RI,2011,Energy,7593,Direct tax,64197,Total Returns filed,136588,Total Dollar Amount,8636234.48
+RI,2011,Financials,8953,Indirect tax,72391,Filed by WK Product,24586,Dollar Amount by product ,1440252.24
+RI,2011,Health Care,4035,,,,,,
+RI,2011,Industrials,26626,,,,,,
+RI,2011,Information Technology,20491,,,,,,
+RI,2011,Real Estate,43508,,,,,,
+RI,2011,Others,25382,,,,,,
+RI,2012,Energy,13521,Direct tax,89767,Total Returns filed,154770,Total Dollar Amount,8636234.48
+RI,2012,Financials,31413,Indirect tax,65003,Filed by WK Product,49527,Dollar Amount by product ,1440252.24
+RI,2012,Health Care,44995,,,,,,
+RI,2012,Industrials,2223,,,,,,
+RI,2012,Information Technology,13892,,,,,,
+RI,2012,Real Estate,33282,,,,,,
+RI,2012,Others,15444,,,,,,
+RI,2013,Energy,24797,Direct tax,123469,Total Returns filed,220480,Total Dollar Amount,8636234.48
+RI,2013,Financials,48162,Indirect tax,97011,Filed by WK Product,33072,Dollar Amount by product ,1440252.24
+RI,2013,Health Care,17330,,,,,,
+RI,2013,Industrials,11750,,,,,,
+RI,2013,Information Technology,40804,,,,,,
+RI,2013,Real Estate,32988,,,,,,
+RI,2013,Others,44649,,,,,,
+RI,2014,Energy,24701,Direct tax,103526,Total Returns filed,172542,Total Dollar Amount,8636234.48
+RI,2014,Financials,33830,Indirect tax,69016,Filed by WK Product,32783,Dollar Amount by product ,1440252.24
+RI,2014,Health Care,10172,,,,,,
+RI,2014,Industrials,4256,,,,,,
+RI,2014,Information Technology,36037,,,,,,
+RI,2014,Real Estate,20330,,,,,,
+RI,2014,Others,43216,,,,,,
+RI,2015,Energy,2693,Direct tax,74314,Total Returns filed,161551,Total Dollar Amount,8636234.48
+RI,2015,Financials,28673,Indirect tax,87237,Filed by WK Product,80776,Dollar Amount by product ,1440252.24
+RI,2015,Health Care,33751,,,,,,
+RI,2015,Industrials,9611,,,,,,
+RI,2015,Information Technology,13227,,,,,,
+RI,2015,Real Estate,34530,,,,,,
+RI,2015,Others,39066,,,,,,
+RI,2016,Energy,25496,Direct tax,104800,Total Returns filed,190545,Total Dollar Amount,8636234.48
+RI,2016,Financials,13128,Indirect tax,85745,Filed by WK Product,85746,Dollar Amount by product ,1440252.24
+RI,2016,Health Care,46502,,,,,,
+RI,2016,Industrials,32829,,,,,,
+RI,2016,Information Technology,43781,,,,,,
+RI,2016,Real Estate,11471,,,,,,
+RI,2016,Others,17338,,,,,,
+SC,2010,Energy,2540,Direct tax,83291,Total Returns filed,193700,Total Dollar Amount,8636234.48
+SC,2010,Financials,38719,Indirect tax,110409,Filed by WK Product,32929,Dollar Amount by product ,1440252.24
+SC,2010,Health Care,40948,,,,,,
+SC,2010,Industrials,45941,,,,,,
+SC,2010,Information Technology,21911,,,,,,
+SC,2010,Real Estate,30595,,,,,,
+SC,2010,Others,13046,,,,,,
+SC,2011,Energy,8802,Direct tax,81491,Total Returns filed,145518,Total Dollar Amount,8636234.48
+SC,2011,Financials,34792,Indirect tax,64027,Filed by WK Product,45111,Dollar Amount by product ,1440252.24
+SC,2011,Health Care,23696,,,,,,
+SC,2011,Industrials,15501,,,,,,
+SC,2011,Information Technology,39057,,,,,,
+SC,2011,Real Estate,19408,,,,,,
+SC,2011,Others,4262,,,,,,
+SC,2012,Energy,23652,Direct tax,149278,Total Returns filed,253013,Total Dollar Amount,8636234.48
+SC,2012,Financials,35234,Indirect tax,103735,Filed by WK Product,75904,Dollar Amount by product ,1440252.24
+SC,2012,Health Care,30021,,,,,,
+SC,2012,Industrials,38441,,,,,,
+SC,2012,Information Technology,40827,,,,,,
+SC,2012,Real Estate,43547,,,,,,
+SC,2012,Others,41291,,,,,,
+SC,2013,Energy,6003,Direct tax,92676,Total Returns filed,178223,Total Dollar Amount,8636234.48
+SC,2013,Financials,43853,Indirect tax,85547,Filed by WK Product,60596,Dollar Amount by product ,1440252.24
+SC,2013,Health Care,49054,,,,,,
+SC,2013,Industrials,35075,,,,,,
+SC,2013,Information Technology,4069,,,,,,
+SC,2013,Real Estate,13915,,,,,,
+SC,2013,Others,26254,,,,,,
+SC,2014,Energy,32745,Direct tax,88212,Total Returns filed,172964,Total Dollar Amount,8636234.48
+SC,2014,Financials,11490,Indirect tax,84752,Filed by WK Product,58808,Dollar Amount by product ,1440252.24
+SC,2014,Health Care,26757,,,,,,
+SC,2014,Industrials,24838,,,,,,
+SC,2014,Information Technology,49660,,,,,,
+SC,2014,Real Estate,15892,,,,,,
+SC,2014,Others,11582,,,,,,
+SC,2015,Energy,44368,Direct tax,81977,Total Returns filed,199942,Total Dollar Amount,8636234.48
+SC,2015,Financials,13916,Indirect tax,117965,Filed by WK Product,93973,Dollar Amount by product ,1440252.24
+SC,2015,Health Care,42664,,,,,,
+SC,2015,Industrials,49800,,,,,,
+SC,2015,Information Technology,37648,,,,,,
+SC,2015,Real Estate,4355,,,,,,
+SC,2015,Others,7191,,,,,,
+SC,2016,Energy,17092,Direct tax,74100,Total Returns filed,145293,Total Dollar Amount,8636234.48
+SC,2016,Financials,36992,Indirect tax,71193,Filed by WK Product,27606,Dollar Amount by product ,1440252.24
+SC,2016,Health Care,40668,,,,,,
+SC,2016,Industrials,2522,,,,,,
+SC,2016,Information Technology,4076,,,,,,
+SC,2016,Real Estate,16651,,,,,,
+SC,2016,Others,27292,,,,,,
+SD,2010,Energy,16441,Direct tax,61995,Total Returns filed,144173,Total Dollar Amount,8636234.48
+SD,2010,Financials,4223,Indirect tax,82178,Filed by WK Product,40369,Dollar Amount by product ,1440252.24
+SD,2010,Health Care,32721,,,,,,
+SD,2010,Industrials,30225,,,,,,
+SD,2010,Information Technology,22524,,,,,,
+SD,2010,Real Estate,18183,,,,,,
+SD,2010,Others,19856,,,,,,
+SD,2011,Energy,16123,Direct tax,84608,Total Returns filed,183929,Total Dollar Amount,8636234.48
+SD,2011,Financials,9266,Indirect tax,99321,Filed by WK Product,33108,Dollar Amount by product ,1440252.24
+SD,2011,Health Care,44134,,,,,,
+SD,2011,Industrials,9962,,,,,,
+SD,2011,Information Technology,17949,,,,,,
+SD,2011,Real Estate,49549,,,,,,
+SD,2011,Others,36946,,,,,,
+SD,2012,Energy,18034,Direct tax,96112,Total Returns filed,223515,Total Dollar Amount,8636234.48
+SD,2012,Financials,36026,Indirect tax,127403,Filed by WK Product,62585,Dollar Amount by product ,1440252.24
+SD,2012,Health Care,28556,,,,,,
+SD,2012,Industrials,35213,,,,,,
+SD,2012,Information Technology,49230,,,,,,
+SD,2012,Real Estate,26070,,,,,,
+SD,2012,Others,30386,,,,,,
+SD,2013,Energy,27974,Direct tax,114680,Total Returns filed,220537,Total Dollar Amount,8636234.48
+SD,2013,Financials,47170,Indirect tax,105857,Filed by WK Product,79394,Dollar Amount by product ,1440252.24
+SD,2013,Health Care,1347,,,,,,
+SD,2013,Industrials,45768,,,,,,
+SD,2013,Information Technology,22451,,,,,,
+SD,2013,Real Estate,36616,,,,,,
+SD,2013,Others,39211,,,,,,
+SD,2014,Energy,43075,Direct tax,93797,Total Returns filed,203905,Total Dollar Amount,8636234.48
+SD,2014,Financials,20105,Indirect tax,110108,Filed by WK Product,85641,Dollar Amount by product ,1440252.24
+SD,2014,Health Care,31800,,,,,,
+SD,2014,Industrials,25472,,,,,,
+SD,2014,Information Technology,5940,,,,,,
+SD,2014,Real Estate,31811,,,,,,
+SD,2014,Others,45702,,,,,,
+SD,2015,Energy,16669,Direct tax,136253,Total Returns filed,227088,Total Dollar Amount,8636234.48
+SD,2015,Financials,23920,Indirect tax,90835,Filed by WK Product,40876,Dollar Amount by product ,1440252.24
+SD,2015,Health Care,39540,,,,,,
+SD,2015,Industrials,42465,,,,,,
+SD,2015,Information Technology,46087,,,,,,
+SD,2015,Real Estate,18991,,,,,,
+SD,2015,Others,39416,,,,,,
+SD,2016,Energy,38604,Direct tax,88415,Total Returns filed,163730,Total Dollar Amount,8636234.48
+SD,2016,Financials,13845,Indirect tax,75315,Filed by WK Product,67130,Dollar Amount by product ,1440252.24
+SD,2016,Health Care,31701,,,,,,
+SD,2016,Industrials,20374,,,,,,
+SD,2016,Information Technology,5405,,,,,,
+SD,2016,Real Estate,27565,,,,,,
+SD,2016,Others,26236,,,,,,
+TN,2010,Energy,7294,Direct tax,88934,Total Returns filed,156023,Total Dollar Amount,8636234.48
+TN,2010,Financials,49853,Indirect tax,67089,Filed by WK Product,45247,Dollar Amount by product ,1440252.24
+TN,2010,Health Care,29689,,,,,,
+TN,2010,Industrials,7077,,,,,,
+TN,2010,Information Technology,11287,,,,,,
+TN,2010,Real Estate,17030,,,,,,
+TN,2010,Others,33793,,,,,,
+TN,2011,Energy,44993,Direct tax,79920,Total Returns filed,142713,Total Dollar Amount,8636234.48
+TN,2011,Financials,4659,Indirect tax,62793,Filed by WK Product,24262,Dollar Amount by product ,1440252.24
+TN,2011,Health Care,29374,,,,,,
+TN,2011,Industrials,26775,,,,,,
+TN,2011,Information Technology,24551,,,,,,
+TN,2011,Real Estate,4927,,,,,,
+TN,2011,Others,7434,,,,,,
+TN,2012,Energy,3354,Direct tax,113884,Total Returns filed,193023,Total Dollar Amount,8636234.48
+TN,2012,Financials,28793,Indirect tax,79139,Filed by WK Product,90721,Dollar Amount by product ,1440252.24
+TN,2012,Health Care,43840,,,,,,
+TN,2012,Industrials,37092,,,,,,
+TN,2012,Information Technology,35714,,,,,,
+TN,2012,Real Estate,41695,,,,,,
+TN,2012,Others,2535,,,,,,
+TN,2013,Energy,7928,Direct tax,70472,Total Returns filed,138179,Total Dollar Amount,8636234.48
+TN,2013,Financials,5116,Indirect tax,67707,Filed by WK Product,64945,Dollar Amount by product ,1440252.24
+TN,2013,Health Care,18252,,,,,,
+TN,2013,Industrials,30008,,,,,,
+TN,2013,Information Technology,14502,,,,,,
+TN,2013,Real Estate,40444,,,,,,
+TN,2013,Others,21929,,,,,,
+TN,2014,Energy,31351,Direct tax,112653,Total Returns filed,201166,Total Dollar Amount,8636234.48
+TN,2014,Financials,47462,Indirect tax,88513,Filed by WK Product,90525,Dollar Amount by product ,1440252.24
+TN,2014,Health Care,11671,,,,,,
+TN,2014,Industrials,31178,,,,,,
+TN,2014,Information Technology,5823,,,,,,
+TN,2014,Real Estate,33664,,,,,,
+TN,2014,Others,40017,,,,,,
+TN,2015,Energy,27944,Direct tax,77160,Total Returns filed,154319,Total Dollar Amount,8636234.48
+TN,2015,Financials,47046,Indirect tax,77159,Filed by WK Product,60185,Dollar Amount by product ,1440252.24
+TN,2015,Health Care,7729,,,,,,
+TN,2015,Industrials,43879,,,,,,
+TN,2015,Information Technology,3102,,,,,,
+TN,2015,Real Estate,21370,,,,,,
+TN,2015,Others,3249,,,,,,
+TN,2016,Energy,20829,Direct tax,80749,Total Returns filed,179441,Total Dollar Amount,8636234.48
+TN,2016,Financials,15113,Indirect tax,98692,Filed by WK Product,53833,Dollar Amount by product ,1440252.24
+TN,2016,Health Care,17557,,,,,,
+TN,2016,Industrials,46009,,,,,,
+TN,2016,Information Technology,35957,,,,,,
+TN,2016,Real Estate,5215,,,,,,
+TN,2016,Others,38761,,,,,,
+TX,2010,Energy,10017,Direct tax,75352,Total Returns filed,160322,Total Dollar Amount,8636234.48
+TX,2010,Financials,26904,Indirect tax,84970,Filed by WK Product,35271,Dollar Amount by product ,1440252.24
+TX,2010,Health Care,44289,,,,,,
+TX,2010,Industrials,38999,,,,,,
+TX,2010,Information Technology,16579,,,,,,
+TX,2010,Real Estate,19162,,,,,,
+TX,2010,Others,4372,,,,,,
+TX,2011,Energy,33371,Direct tax,94346,Total Returns filed,219409,Total Dollar Amount,8636234.48
+TX,2011,Financials,40272,Indirect tax,125063,Filed by WK Product,96540,Dollar Amount by product ,1440252.24
+TX,2011,Health Care,43161,,,,,,
+TX,2011,Industrials,46881,,,,,,
+TX,2011,Information Technology,28637,,,,,,
+TX,2011,Real Estate,21339,,,,,,
+TX,2011,Others,5748,,,,,,
+TX,2012,Energy,23450,Direct tax,52932,Total Returns filed,126028,Total Dollar Amount,8636234.48
+TX,2012,Financials,5824,Indirect tax,73096,Filed by WK Product,39069,Dollar Amount by product ,1440252.24
+TX,2012,Health Care,29656,,,,,,
+TX,2012,Industrials,14199,,,,,,
+TX,2012,Information Technology,1054,,,,,,
+TX,2012,Real Estate,39285,,,,,,
+TX,2012,Others,12560,,,,,,
+TX,2013,Energy,18248,Direct tax,55646,Total Returns filed,129408,Total Dollar Amount,8636234.48
+TX,2013,Financials,34768,Indirect tax,73762,Filed by WK Product,43999,Dollar Amount by product ,1440252.24
+TX,2013,Health Care,14837,,,,,,
+TX,2013,Industrials,21973,,,,,,
+TX,2013,Information Technology,27092,,,,,,
+TX,2013,Real Estate,3396,,,,,,
+TX,2013,Others,9094,,,,,,
+TX,2014,Energy,20170,Direct tax,66020,Total Returns filed,150045,Total Dollar Amount,8636234.48
+TX,2014,Financials,2382,Indirect tax,84025,Filed by WK Product,61519,Dollar Amount by product ,1440252.24
+TX,2014,Health Care,42706,,,,,,
+TX,2014,Industrials,46594,,,,,,
+TX,2014,Information Technology,2434,,,,,,
+TX,2014,Real Estate,24136,,,,,,
+TX,2014,Others,11623,,,,,,
+TX,2015,Energy,49947,Direct tax,73479,Total Returns filed,128909,Total Dollar Amount,8636234.48
+TX,2015,Financials,20830,Indirect tax,55430,Filed by WK Product,39962,Dollar Amount by product ,1440252.24
+TX,2015,Health Care,4212,,,,,,
+TX,2015,Industrials,31568,,,,,,
+TX,2015,Information Technology,6096,,,,,,
+TX,2015,Real Estate,14272,,,,,,
+TX,2015,Others,1984,,,,,,
+TX,2016,Energy,9290,Direct tax,61709,Total Returns filed,123417,Total Dollar Amount,8636234.48
+TX,2016,Financials,8026,Indirect tax,61708,Filed by WK Product,27152,Dollar Amount by product ,1440252.24
+TX,2016,Health Care,21698,,,,,,
+TX,2016,Industrials,8665,,,,,,
+TX,2016,Information Technology,23673,,,,,,
+TX,2016,Real Estate,41713,,,,,,
+TX,2016,Others,10352,,,,,,
+UT,2010,Energy,29713,Direct tax,111723,Total Returns filed,206893,Total Dollar Amount,8636234.48
+UT,2010,Financials,14863,Indirect tax,95170,Filed by WK Product,57931,Dollar Amount by product ,1440252.24
+UT,2010,Health Care,42346,,,,,,
+UT,2010,Industrials,14037,,,,,,
+UT,2010,Information Technology,43842,,,,,,
+UT,2010,Real Estate,34084,,,,,,
+UT,2010,Others,28008,,,,,,
+UT,2011,Energy,18544,Direct tax,52500,Total Returns filed,131250,Total Dollar Amount,8636234.48
+UT,2011,Financials,20453,Indirect tax,78750,Filed by WK Product,53813,Dollar Amount by product ,1440252.24
+UT,2011,Health Care,11132,,,,,,
+UT,2011,Industrials,16327,,,,,,
+UT,2011,Information Technology,15674,,,,,,
+UT,2011,Real Estate,35827,,,,,,
+UT,2011,Others,13293,,,,,,
+UT,2012,Energy,22452,Direct tax,94923,Total Returns filed,169505,Total Dollar Amount,8636234.48
+UT,2012,Financials,34874,Indirect tax,74582,Filed by WK Product,71193,Dollar Amount by product ,1440252.24
+UT,2012,Health Care,36205,,,,,,
+UT,2012,Industrials,5153,,,,,,
+UT,2012,Information Technology,36881,,,,,,
+UT,2012,Real Estate,24095,,,,,,
+UT,2012,Others,9845,,,,,,
+UT,2013,Energy,37518,Direct tax,100954,Total Returns filed,210320,Total Dollar Amount,8636234.48
+UT,2013,Financials,31762,Indirect tax,109366,Filed by WK Product,50477,Dollar Amount by product ,1440252.24
+UT,2013,Health Care,37708,,,,,,
+UT,2013,Industrials,35458,,,,,,
+UT,2013,Information Technology,2071,,,,,,
+UT,2013,Real Estate,18916,,,,,,
+UT,2013,Others,46887,,,,,,
+UT,2014,Energy,3573,Direct tax,113158,Total Returns filed,195099,Total Dollar Amount,8636234.48
+UT,2014,Financials,43413,Indirect tax,81941,Filed by WK Product,79991,Dollar Amount by product ,1440252.24
+UT,2014,Health Care,36577,,,,,,
+UT,2014,Industrials,43233,,,,,,
+UT,2014,Information Technology,10031,,,,,,
+UT,2014,Real Estate,33431,,,,,,
+UT,2014,Others,24841,,,,,,
+UT,2015,Energy,43423,Direct tax,79838,Total Returns filed,194726,Total Dollar Amount,8636234.48
+UT,2015,Financials,35673,Indirect tax,114888,Filed by WK Product,97363,Dollar Amount by product ,1440252.24
+UT,2015,Health Care,43572,,,,,,
+UT,2015,Industrials,22792,,,,,,
+UT,2015,Information Technology,26427,,,,,,
+UT,2015,Real Estate,1848,,,,,,
+UT,2015,Others,20991,,,,,,
+UT,2016,Energy,25086,Direct tax,61764,Total Returns filed,154408,Total Dollar Amount,8636234.48
+UT,2016,Financials,30242,Indirect tax,92644,Filed by WK Product,49411,Dollar Amount by product ,1440252.24
+UT,2016,Health Care,19781,,,,,,
+UT,2016,Industrials,6432,,,,,,
+UT,2016,Information Technology,12169,,,,,,
+UT,2016,Real Estate,45800,,,,,,
+UT,2016,Others,14898,,,,,,
+VT,2010,Energy,28940,Direct tax,91131,Total Returns filed,227827,Total Dollar Amount,8636234.48
+VT,2010,Financials,48919,Indirect tax,136696,Filed by WK Product,95688,Dollar Amount by product ,1440252.24
+VT,2010,Health Care,48703,,,,,,
+VT,2010,Industrials,22069,,,,,,
+VT,2010,Information Technology,4093,,,,,,
+VT,2010,Real Estate,30963,,,,,,
+VT,2010,Others,44140,,,,,,
+VT,2011,Energy,20916,Direct tax,90236,Total Returns filed,214846,Total Dollar Amount,8636234.48
+VT,2011,Financials,40210,Indirect tax,124610,Filed by WK Product,51564,Dollar Amount by product ,1440252.24
+VT,2011,Health Care,29617,,,,,,
+VT,2011,Industrials,46283,,,,,,
+VT,2011,Information Technology,35731,,,,,,
+VT,2011,Real Estate,35551,,,,,,
+VT,2011,Others,6538,,,,,,
+VT,2012,Energy,34111,Direct tax,87238,Total Returns filed,193861,Total Dollar Amount,8636234.48
+VT,2012,Financials,23296,Indirect tax,106623,Filed by WK Product,63975,Dollar Amount by product ,1440252.24
+VT,2012,Health Care,7951,,,,,,
+VT,2012,Industrials,27493,,,,,,
+VT,2012,Information Technology,17185,,,,,,
+VT,2012,Real Estate,37759,,,,,,
+VT,2012,Others,46066,,,,,,
+VT,2013,Energy,43868,Direct tax,90107,Total Returns filed,180213,Total Dollar Amount,8636234.48
+VT,2013,Financials,32985,Indirect tax,90106,Filed by WK Product,81096,Dollar Amount by product ,1440252.24
+VT,2013,Health Care,18787,,,,,,
+VT,2013,Industrials,25921,,,,,,
+VT,2013,Information Technology,22085,,,,,,
+VT,2013,Real Estate,28364,,,,,,
+VT,2013,Others,8203,,,,,,
+VT,2014,Energy,20096,Direct tax,103046,Total Returns filed,180781,Total Dollar Amount,8636234.48
+VT,2014,Financials,40223,Indirect tax,77735,Filed by WK Product,65082,Dollar Amount by product ,1440252.24
+VT,2014,Health Care,9858,,,,,,
+VT,2014,Industrials,6440,,,,,,
+VT,2014,Information Technology,21391,,,,,,
+VT,2014,Real Estate,40985,,,,,,
+VT,2014,Others,41788,,,,,,
+VT,2015,Energy,38635,Direct tax,101051,Total Returns filed,183728,Total Dollar Amount,8636234.48
+VT,2015,Financials,25608,Indirect tax,82677,Filed by WK Product,79004,Dollar Amount by product ,1440252.24
+VT,2015,Health Care,4794,,,,,,
+VT,2015,Industrials,33531,,,,,,
+VT,2015,Information Technology,27190,,,,,,
+VT,2015,Real Estate,4912,,,,,,
+VT,2015,Others,49058,,,,,,
+VT,2016,Energy,41293,Direct tax,119409,Total Returns filed,202387,Total Dollar Amount,8636234.48
+VT,2016,Financials,14415,Indirect tax,82978,Filed by WK Product,93099,Dollar Amount by product ,1440252.24
+VT,2016,Health Care,2153,,,,,,
+VT,2016,Industrials,37162,,,,,,
+VT,2016,Information Technology,39217,,,,,,
+VT,2016,Real Estate,42578,,,,,,
+VT,2016,Others,25569,,,,,,
+VA,2010,Energy,33384,Direct tax,86784,Total Returns filed,197236,Total Dollar Amount,8636234.48
+VA,2010,Financials,28855,Indirect tax,110452,Filed by WK Product,76923,Dollar Amount by product ,1440252.24
+VA,2010,Health Care,47446,,,,,,
+VA,2010,Industrials,6162,,,,,,
+VA,2010,Information Technology,23436,,,,,,
+VA,2010,Real Estate,35201,,,,,,
+VA,2010,Others,22752,,,,,,
+VA,2011,Energy,19673,Direct tax,76136,Total Returns filed,169191,Total Dollar Amount,8636234.48
+VA,2011,Financials,4722,Indirect tax,93055,Filed by WK Product,84596,Dollar Amount by product ,1440252.24
+VA,2011,Health Care,25450,,,,,,
+VA,2011,Industrials,29058,,,,,,
+VA,2011,Information Technology,28114,,,,,,
+VA,2011,Real Estate,45213,,,,,,
+VA,2011,Others,16961,,,,,,
+VA,2012,Energy,17399,Direct tax,99930,Total Returns filed,188546,Total Dollar Amount,8636234.48
+VA,2012,Financials,47464,Indirect tax,88616,Filed by WK Product,64106,Dollar Amount by product ,1440252.24
+VA,2012,Health Care,26746,,,,,,
+VA,2012,Industrials,38436,,,,,,
+VA,2012,Information Technology,11252,,,,,,
+VA,2012,Real Estate,20920,,,,,,
+VA,2012,Others,26329,,,,,,
+VA,2013,Energy,6439,Direct tax,90895,Total Returns filed,193393,Total Dollar Amount,8636234.48
+VA,2013,Financials,20935,Indirect tax,102498,Filed by WK Product,83159,Dollar Amount by product ,1440252.24
+VA,2013,Health Care,22078,,,,,,
+VA,2013,Industrials,28328,,,,,,
+VA,2013,Information Technology,46496,,,,,,
+VA,2013,Real Estate,39810,,,,,,
+VA,2013,Others,29307,,,,,,
+VA,2014,Energy,40276,Direct tax,72342,Total Returns filed,160758,Total Dollar Amount,8636234.48
+VA,2014,Financials,27463,Indirect tax,88416,Filed by WK Product,24114,Dollar Amount by product ,1440252.24
+VA,2014,Health Care,6042,,,,,,
+VA,2014,Industrials,23516,,,,,,
+VA,2014,Information Technology,13297,,,,,,
+VA,2014,Real Estate,14276,,,,,,
+VA,2014,Others,35888,,,,,,
+VA,2015,Energy,27589,Direct tax,103413,Total Returns filed,191505,Total Dollar Amount,8636234.48
+VA,2015,Financials,8721,Indirect tax,88092,Filed by WK Product,70857,Dollar Amount by product ,1440252.24
+VA,2015,Health Care,36554,,,,,,
+VA,2015,Industrials,23089,,,,,,
+VA,2015,Information Technology,33009,,,,,,
+VA,2015,Real Estate,37774,,,,,,
+VA,2015,Others,24769,,,,,,
+VA,2016,Energy,45317,Direct tax,86181,Total Returns filed,172362,Total Dollar Amount,8636234.48
+VA,2016,Financials,16626,Indirect tax,86181,Filed by WK Product,70669,Dollar Amount by product ,1440252.24
+VA,2016,Health Care,13996,,,,,,
+VA,2016,Industrials,4441,,,,,,
+VA,2016,Information Technology,12995,,,,,,
+VA,2016,Real Estate,31359,,,,,,
+VA,2016,Others,47628,,,,,,
+WA,2010,Energy,33100,Direct tax,76217,Total Returns filed,131408,Total Dollar Amount,8636234.48
+WA,2010,Financials,8467,Indirect tax,55191,Filed by WK Product,64390,Dollar Amount by product ,1440252.24
+WA,2010,Health Care,6345,,,,,,
+WA,2010,Industrials,7293,,,,,,
+WA,2010,Information Technology,23872,,,,,,
+WA,2010,Real Estate,38818,,,,,,
+WA,2010,Others,13513,,,,,,
+WA,2011,Energy,22290,Direct tax,109329,Total Returns filed,185303,Total Dollar Amount,8636234.48
+WA,2011,Financials,16230,Indirect tax,75974,Filed by WK Product,55591,Dollar Amount by product ,1440252.24
+WA,2011,Health Care,22563,,,,,,
+WA,2011,Industrials,37754,,,,,,
+WA,2011,Information Technology,44417,,,,,,
+WA,2011,Real Estate,2793,,,,,,
+WA,2011,Others,39256,,,,,,
+WA,2012,Energy,49091,Direct tax,146538,Total Returns filed,281802,Total Dollar Amount,8636234.48
+WA,2012,Financials,27677,Indirect tax,135264,Filed by WK Product,90177,Dollar Amount by product ,1440252.24
+WA,2012,Health Care,43986,,,,,,
+WA,2012,Industrials,34749,,,,,,
+WA,2012,Information Technology,46219,,,,,,
+WA,2012,Real Estate,39376,,,,,,
+WA,2012,Others,40704,,,,,,
+WA,2013,Energy,14267,Direct tax,92672,Total Returns filed,168494,Total Dollar Amount,8636234.48
+WA,2013,Financials,24988,Indirect tax,75822,Filed by WK Product,67398,Dollar Amount by product ,1440252.24
+WA,2013,Health Care,20040,,,,,,
+WA,2013,Industrials,44325,,,,,,
+WA,2013,Information Technology,28095,,,,,,
+WA,2013,Real Estate,23662,,,,,,
+WA,2013,Others,13117,,,,,,
+WA,2014,Energy,4167,Direct tax,87433,Total Returns filed,203332,Total Dollar Amount,8636234.48
+WA,2014,Financials,44554,Indirect tax,115899,Filed by WK Product,40667,Dollar Amount by product ,1440252.24
+WA,2014,Health Care,40213,,,,,,
+WA,2014,Industrials,15476,,,,,,
+WA,2014,Information Technology,33302,,,,,,
+WA,2014,Real Estate,17826,,,,,,
+WA,2014,Others,47794,,,,,,
+WA,2015,Energy,23559,Direct tax,91601,Total Returns filed,160703,Total Dollar Amount,8636234.48
+WA,2015,Financials,9618,Indirect tax,69102,Filed by WK Product,27320,Dollar Amount by product ,1440252.24
+WA,2015,Health Care,1498,,,,,,
+WA,2015,Industrials,8101,,,,,,
+WA,2015,Information Technology,37441,,,,,,
+WA,2015,Real Estate,48409,,,,,,
+WA,2015,Others,32077,,,,,,
+WA,2016,Energy,48235,Direct tax,140996,Total Returns filed,256355,Total Dollar Amount,8636234.48
+WA,2016,Financials,32824,Indirect tax,115359,Filed by WK Product,97415,Dollar Amount by product ,1440252.24
+WA,2016,Health Care,45482,,,,,,
+WA,2016,Industrials,35497,,,,,,
+WA,2016,Information Technology,27136,,,,,,
+WA,2016,Real Estate,26966,,,,,,
+WA,2016,Others,40215,,,,,,
+WV,2010,Energy,39488,Direct tax,61280,Total Returns filed,142511,Total Dollar Amount,8636234.48
+WV,2010,Financials,7852,Indirect tax,81231,Filed by WK Product,49879,Dollar Amount by product ,1440252.24
+WV,2010,Health Care,22384,,,,,,
+WV,2010,Industrials,9713,,,,,,
+WV,2010,Information Technology,19995,,,,,,
+WV,2010,Real Estate,7218,,,,,,
+WV,2010,Others,35861,,,,,,
+WV,2011,Energy,31713,Direct tax,79791,Total Returns filed,156451,Total Dollar Amount,8636234.48
+WV,2011,Financials,16504,Indirect tax,76660,Filed by WK Product,67274,Dollar Amount by product ,1440252.24
+WV,2011,Health Care,13142,,,,,,
+WV,2011,Industrials,21801,,,,,,
+WV,2011,Information Technology,20946,,,,,,
+WV,2011,Real Estate,45838,,,,,,
+WV,2011,Others,6507,,,,,,
+WV,2012,Energy,25808,Direct tax,98962,Total Returns filed,170624,Total Dollar Amount,8636234.48
+WV,2012,Financials,10783,Indirect tax,71662,Filed by WK Product,59719,Dollar Amount by product ,1440252.24
+WV,2012,Health Care,12170,,,,,,
+WV,2012,Industrials,28937,,,,,,
+WV,2012,Information Technology,46989,,,,,,
+WV,2012,Real Estate,23060,,,,,,
+WV,2012,Others,22877,,,,,,
+WV,2013,Energy,22084,Direct tax,103701,Total Returns filed,225435,Total Dollar Amount,8636234.48
+WV,2013,Financials,18073,Indirect tax,121734,Filed by WK Product,58614,Dollar Amount by product ,1440252.24
+WV,2013,Health Care,46921,,,,,,
+WV,2013,Industrials,47528,,,,,,
+WV,2013,Information Technology,42219,,,,,,
+WV,2013,Real Estate,5122,,,,,,
+WV,2013,Others,43488,,,,,,
+WV,2014,Energy,41912,Direct tax,83951,Total Returns filed,167902,Total Dollar Amount,8636234.48
+WV,2014,Financials,37738,Indirect tax,83951,Filed by WK Product,25186,Dollar Amount by product ,1440252.24
+WV,2014,Health Care,4717,,,,,,
+WV,2014,Industrials,32232,,,,,,
+WV,2014,Information Technology,24294,,,,,,
+WV,2014,Real Estate,21845,,,,,,
+WV,2014,Others,5164,,,,,,
+WV,2015,Energy,34881,Direct tax,54193,Total Returns filed,132176,Total Dollar Amount,8636234.48
+WV,2015,Financials,14574,Indirect tax,77983,Filed by WK Product,21149,Dollar Amount by product ,1440252.24
+WV,2015,Health Care,4636,,,,,,
+WV,2015,Industrials,37493,,,,,,
+WV,2015,Information Technology,4535,,,,,,
+WV,2015,Real Estate,34460,,,,,,
+WV,2015,Others,1597,,,,,,
+WV,2016,Energy,34157,Direct tax,127988,Total Returns filed,220668,Total Dollar Amount,8636234.48
+WV,2016,Financials,18376,Indirect tax,92680,Filed by WK Product,48547,Dollar Amount by product ,1440252.24
+WV,2016,Health Care,45715,,,,,,
+WV,2016,Industrials,28240,,,,,,
+WV,2016,Information Technology,13903,,,,,,
+WV,2016,Real Estate,41043,,,,,,
+WV,2016,Others,39234,,,,,,
+WI,2010,Energy,34369,Direct tax,95347,Total Returns filed,194585,Total Dollar Amount,8636234.48
+WI,2010,Financials,28254,Indirect tax,99238,Filed by WK Product,85618,Dollar Amount by product ,1440252.24
+WI,2010,Health Care,3800,,,,,,
+WI,2010,Industrials,47041,,,,,,
+WI,2010,Information Technology,12839,,,,,,
+WI,2010,Real Estate,45099,,,,,,
+WI,2010,Others,23183,,,,,,
+WI,2011,Energy,33037,Direct tax,122941,Total Returns filed,219537,Total Dollar Amount,8636234.48
+WI,2011,Financials,26592,Indirect tax,96596,Filed by WK Product,63666,Dollar Amount by product ,1440252.24
+WI,2011,Health Care,43218,,,,,,
+WI,2011,Industrials,18125,,,,,,
+WI,2011,Information Technology,49125,,,,,,
+WI,2011,Real Estate,31394,,,,,,
+WI,2011,Others,18046,,,,,,
+WI,2012,Energy,9001,Direct tax,61789,Total Returns filed,104726,Total Dollar Amount,8636234.48
+WI,2012,Financials,18040,Indirect tax,42937,Filed by WK Product,50269,Dollar Amount by product ,1440252.24
+WI,2012,Health Care,10120,,,,,,
+WI,2012,Industrials,8012,,,,,,
+WI,2012,Information Technology,5817,,,,,,
+WI,2012,Real Estate,11935,,,,,,
+WI,2012,Others,41801,,,,,,
+WI,2013,Energy,32890,Direct tax,55691,Total Returns filed,107098,Total Dollar Amount,8636234.48
+WI,2013,Financials,38769,Indirect tax,51407,Filed by WK Product,32130,Dollar Amount by product ,1440252.24
+WI,2013,Health Care,8517,,,,,,
+WI,2013,Industrials,10815,,,,,,
+WI,2013,Information Technology,9822,,,,,,
+WI,2013,Real Estate,3681,,,,,,
+WI,2013,Others,2604,,,,,,
+WI,2014,Energy,5624,Direct tax,50223,Total Returns filed,116797,Total Dollar Amount,8636234.48
+WI,2014,Financials,20990,Indirect tax,66574,Filed by WK Product,40879,Dollar Amount by product ,1440252.24
+WI,2014,Health Care,34357,,,,,,
+WI,2014,Industrials,15896,,,,,,
+WI,2014,Information Technology,6877,,,,,,
+WI,2014,Real Estate,1350,,,,,,
+WI,2014,Others,31703,,,,,,
+WI,2015,Energy,9100,Direct tax,47564,Total Returns filed,110612,Total Dollar Amount,8636234.48
+WI,2015,Financials,27989,Indirect tax,63048,Filed by WK Product,21017,Dollar Amount by product ,1440252.24
+WI,2015,Health Care,10680,,,,,,
+WI,2015,Industrials,25867,,,,,,
+WI,2015,Information Technology,11410,,,,,,
+WI,2015,Real Estate,1821,,,,,,
+WI,2015,Others,23745,,,,,,
+WI,2016,Energy,20177,Direct tax,71285,Total Returns filed,148510,Total Dollar Amount,8636234.48
+WI,2016,Financials,10604,Indirect tax,77225,Filed by WK Product,69800,Dollar Amount by product ,1440252.24
+WI,2016,Health Care,37884,,,,,,
+WI,2016,Industrials,8790,,,,,,
+WI,2016,Information Technology,22016,,,,,,
+WI,2016,Real Estate,12894,,,,,,
+WI,2016,Others,36145,,,,,,
+WY,2010,Energy,13130,Direct tax,68117,Total Returns filed,128521,Total Dollar Amount,8636234.48
+WY,2010,Financials,7394,Indirect tax,60404,Filed by WK Product,64261,Dollar Amount by product ,1440252.24
+WY,2010,Health Care,17549,,,,,,
+WY,2010,Industrials,24054,,,,,,
+WY,2010,Information Technology,34988,,,,,,
+WY,2010,Real Estate,1233,,,,,,
+WY,2010,Others,30173,,,,,,
+WY,2011,Energy,30054,Direct tax,115181,Total Returns filed,217322,Total Dollar Amount,8636234.48
+WY,2011,Financials,39282,Indirect tax,102141,Filed by WK Product,34772,Dollar Amount by product ,1440252.24
+WY,2011,Health Care,48378,,,,,,
+WY,2011,Industrials,16662,,,,,,
+WY,2011,Information Technology,20030,,,,,,
+WY,2011,Real Estate,27179,,,,,,
+WY,2011,Others,35737,,,,,,
+WY,2012,Energy,40007,Direct tax,102469,Total Returns filed,189756,Total Dollar Amount,8636234.48
+WY,2012,Financials,28166,Indirect tax,87287,Filed by WK Product,36054,Dollar Amount by product ,1440252.24
+WY,2012,Health Care,18720,,,,,,
+WY,2012,Industrials,19956,,,,,,
+WY,2012,Information Technology,3595,,,,,,
+WY,2012,Real Estate,34698,,,,,,
+WY,2012,Others,44614,,,,,,
+WY,2013,Energy,8293,Direct tax,90539,Total Returns filed,174112,Total Dollar Amount,8636234.48
+WY,2013,Financials,27752,Indirect tax,83573,Filed by WK Product,41787,Dollar Amount by product ,1440252.24
+WY,2013,Health Care,11845,,,,,,
+WY,2013,Industrials,47159,,,,,,
+WY,2013,Information Technology,17292,,,,,,
+WY,2013,Real Estate,26211,,,,,,
+WY,2013,Others,35560,,,,,,
+WY,2014,Energy,21135,Direct tax,148711,Total Returns filed,252051,Total Dollar Amount,8636234.48
+WY,2014,Financials,49115,Indirect tax,103340,Filed by WK Product,90739,Dollar Amount by product ,1440252.24
+WY,2014,Health Care,41792,,,,,,
+WY,2014,Industrials,28086,,,,,,
+WY,2014,Information Technology,37119,,,,,,
+WY,2014,Real Estate,49009,,,,,,
+WY,2014,Others,25795,,,,,,
+WY,2015,Energy,26479,Direct tax,79068,Total Returns filed,158136,Total Dollar Amount,8636234.48
+WY,2015,Financials,22775,Indirect tax,79068,Filed by WK Product,53767,Dollar Amount by product ,1440252.24
+WY,2015,Health Care,32431,,,,,,
+WY,2015,Industrials,4622,,,,,,
+WY,2015,Information Technology,31797,,,,,,
+WY,2015,Real Estate,22798,,,,,,
+WY,2015,Others,17234,,,,,,
+WY,2016,Energy,13182,Direct tax,75167,Total Returns filed,153401,Total Dollar Amount,8636234.48
+WY,2016,Financials,15694,Indirect tax,78234,Filed by WK Product,73633,Dollar Amount by product ,1440252.24
+WY,2016,Health Care,28758,,,,,,
+WY,2016,Industrials,2405,,,,,,
+WY,2016,Information Technology,43050,,,,,,
+WY,2016,Real Estate,10293,,,,,,
+WY,2016,Others,40019,,,,,,
